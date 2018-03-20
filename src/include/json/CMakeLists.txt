@@ -1,0 +1,3 @@
+#FILE(GLOB INCLUDE_FILES "json/*.h")
+#INSTALL(FILES ${INCLUDE_FILES} DESTINATION ${CMAKE_INSTALL_INCLUDEDIR}/json)
+add_library(Json jsoncpp.cpp)
