@@ -13,7 +13,7 @@
 #include <algorithm>
 #include <math.h>
 
-#include "include/unqlite/unqlite.h"
+//#include "include/unqlite/unqlite.h"
 #include "include/json/json/json.h"
 
 #include "supplimentMorfi.h"
