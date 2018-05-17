@@ -42,41 +42,55 @@ public:
 };
 
 //Write the GeneData vector set into a file with the specified format
-void Obj2File::writeOutData(std::vector<GeneData> res, std::string path, std::string outType = "FASTA") {
-    //Check if output data type is FASTA
+void Obj2File::writeOutData(std::vector<std::string> res, std::string path, std::string outType = "FASTA") {
+    //Check the output data type and add an extension to the file if it does not match the standard.
     if (outType == "FASTA") {
-
-        //Make the file a .txt file if not given
-        if (SupMorfi::getExtension(path) != "txt") {
-            path += ".txt";
+        //Make the file a .fasta file if not given
+        if (SupMorfi::getExtension(path) != "fasta") {
+            path += ".fasta";
         }
-
-        //Initialize a output file stream and open the file
-        std::ofstream outfile;
-        outfile.open(path, std::ofstream::out | std::ofstream::trunc);
-
-        //Check if the path given exists and throw an exception if not
-        if (outfile.good()) {
-            //iterate through the GeneData set and write the data to the opened file
-            for (auto &value:res) {
-                outfile << ">";
-                outfile << value.getDetails();
-                //FASTA should be split into lines of a maximum of 80 characters
-                int i = 0;
-                for (char &c : value.getGene()) {
-                    if (i % 80 == 0) {
-                        outfile << "\n";
-                    }
-                    i += 1;
-                    outfile << c;
-                }
-                outfile << "\n";
-            }
-        } else {
-            throw FileOutException();
+    } else if (outType == "GCG") {
+        //Make the file a .gcg file if not given
+        if (SupMorfi::getExtension(path) != "gcg") {
+            path += ".gcg";
+        }
+    } else if (outType == "GenBank") {
+        //Make the file a .genbank file if not given
+        if (SupMorfi::getExtension(path) != "genbank") {
+            path += ".genbank";
+        }
+    } else if (outType == "PIR") {
+        //Make the file a .pir file if not given
+        if (SupMorfi::getExtension(path) != "pir") {
+            path += ".pir";
+        }
+    } else if (outType == "NBRF") {
+        //Make the file a .nbrf file if not given
+        if (SupMorfi::getExtension(path) != "nbrf") {
+            path += ".nbrf";
+        }
+    } else if (outType == "PHYLIP") {
+        //Make the file a .phylip file if not given
+        if (SupMorfi::getExtension(path) != "phylip") {
+            path += ".phylip";
         }
     } else {
         //Throw error for unkown type
         throw UnknownOutException();
+    }
+
+    //Initialize a output file stream and open the file
+    std::ofstream outfile;
+    outfile.open(path, std::ofstream::out | std::ofstream::trunc);
+
+    //Check if the path given exists and throw an exception if not
+    if (outfile.good()) {
+        //iterate through the GeneData set and write the data to the opened file
+        for (auto &value:res) {
+            outfile << value;
+            outfile << "\n";
+        }
+    } else {
+        throw FileOutException();
     }
 }

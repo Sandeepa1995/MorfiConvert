@@ -11,7 +11,8 @@
 #include "GeneData.h"
 
 namespace Obj2Obj {
-    std::vector <std::string> giveOutData(std::vector <GeneData> res, std::string outType);
+    //Return the data as a set of Vectors
+    std::vector <std::string> giveOutData(std::vector <GeneData> res, std::string outType, int thrdCnt=10);
 }
 
 #endif //MORFICONVERT_OBJ2OBJ_H

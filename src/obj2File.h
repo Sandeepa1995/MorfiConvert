@@ -10,7 +10,8 @@
 #include <iostream>
 
 namespace Obj2File{
-    void writeOutData(std::vector<GeneData> res, std::string path, std::string outType);
+    //Write the GeneData vector set into a file with the specified format
+    void writeOutData(std::vector<std::string> res, std::string path, std::string outType);
 }
 
 #endif //MORFICONVERT_OBJ2FILE_H

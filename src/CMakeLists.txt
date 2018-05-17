@@ -29,13 +29,6 @@ endif ()
 include_directories("${CMAKE_SOURCE_DIR}/include/json"
         "${CMAKE_SOURCE_DIR}/include/json/json")
 add_subdirectory(include/json)
-#
-## Add the UnQLite library to store the positions of gene data in particular files (Add directories)
-#include_directories("${CMAKE_SOURCE_DIR}/include/unqlite")
-#add_subdirectory(include/unqlite)
-#
-##set(CPPAN_BUILD_SHARED_LIBS ON)
-#add_subdirectory(.cppan)
 
 # Set the files in the library
 set(LIBRARY_FILES
@@ -54,7 +47,13 @@ set(LIBRARY_FILES
         geneComplete.cpp
         geneComplete.h
         geneFragment.cpp
-        geneFragment.h)
+        geneFragment.h
+        image2Text.cpp
+        image2Text.h
+        compressGene.cpp
+        compressGene.h
+        identifyMorfi.cpp
+        identifyMorfi.h)
 
 #Add the files in the library
 add_library(morficonvert ${LIBRARY_FILES})
@@ -62,9 +61,5 @@ add_library(morficonvert ${LIBRARY_FILES})
 # Pre-made linking
 # Link the OpenMP library
 target_link_libraries(morficonvert -fopenmp)
+# Link the Jsoncpp library
 target_link_libraries(morficonvert Json)
-#target_link_libraries(morficonvert unqlite)
-#target_link_libraries(morficonvert
-#        pvt.cppan.demo.google.tesseract.libtesseract
-#        pvt.cppan.demo.danbloomberg.leptonica
-#        )

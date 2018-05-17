@@ -5,7 +5,7 @@
 #include "GeneData.h"
 
 //Gene Data Constructor
-GeneData::GeneData(std::string gen, std::string dtls) {
+GeneData::GeneData(std::string dtls,std::string gen) {
     gene = gen;
     details = dtls;
 }
