@@ -1,0 +1,7 @@
+license: COPYING
+
+static_only: true
+
+files:
+    - src/.*
+
