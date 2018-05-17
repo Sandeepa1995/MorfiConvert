@@ -11,6 +11,7 @@ mkdir build && cd build
 cmake ..
 ```
 or 
+
 Using the MorfiConvert in a project where CMake is used via downloading this github repo, including it in you project (say the include folder) and then adding the following lines to the CMake file,
 ```sh
 #some code
@@ -29,6 +30,65 @@ Afterwards include the morficonvert and GeneData (A class within MrofiConvert as
 #include "include/MorfiConvert/src/GeneData.h"
 ...
 ```
+
+or
+
+MorfiConvert is in cppan as well.
+Make a "cppan.yml" file with,
+```sh
+dependencies:
+    pvt.damitha_lenadora.morficonvert: 1.0.2
+```
+Then do to the direcotry you project is in and build it by (you'll need cppan downloaded and in you path),
+```sh
+cppan
+mkdir build && cd build
+cmake ..
+cmake --build . --config Release
+```
+or
+
+If your going with CMake, just,
+```sh
+cppan
+```
+And update the CMakeLists.txt file.
+```sh
+cmake_minimum_required(VERSION 3.11)
+project(Someproject)
+
+set(CMAKE_CXX_STANDARD 17)
+
+# Use solution folders.
+set_property(GLOBAL PROPERTY USE_FOLDERS ON)
+set_property(GLOBAL PROPERTY PREDEFINED_TARGETS_FOLDER "CMake Targets")
+
+# Output directory settings
+set(output_dir ${CMAKE_BINARY_DIR}/bin)
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${output_dir})
+
+if (MSVC)
+    set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} /MP")
+    set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} /MP")
+else()
+    set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
+endif()
+
+add_subdirectory(.cppan)
+
+#Add whatever you want to the project
+...
+
+target_link_libraries(Someproject
+        pvt.damitha_lenadora.morficonvert
+        )
+```
+To use it like,
+```sh
+#include <morficonvert.h>
+#include <GeneData.h>
+```
+
 
 # Functions
 
@@ -210,7 +270,7 @@ void fileConvert(std::string inPath, std::string outPath, std::string origin, st
 The complete form of file to file conversion where the output is produced directly from the input.
 
 ## Testing
-MorfiConvert has tests created using gtest. Feel free to try them out. `However be warned that if the test directory is the same as the build directory then locally saved data can be erased. This is due to MorfiTest cleaning up after itself.` 
+MorfiConvert has tests created using gtest (in the github repo, not in the cppan one). Feel free to try them out. `However be warned that if the test directory is the same as the build directory then locally saved data can be erased. This is due to MorfiTest cleaning up after itself.` 
 
 License
 ----
