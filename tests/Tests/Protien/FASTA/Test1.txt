@@ -1,0 +1,600 @@
+>AAD44166.1 cytochrome b, partial (mitochondrion) [Elephas maximus maximus]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFAFHFILPFTMVALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNHMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSIVILGLMPFLHTSKHRSMMLRPLSQALFWTLTMD
+LLTLTWIGSQPVEYPYTIIGQMASILYFSIILAFLPIAGXIENY
+>BAA25010.1 cytochrome b (mitochondrion) [Elephas maximus]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFAFHFILPFTMVALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPFLHTSKHRSMMLRPLSQVLFWTLTMD
+LLTLTWIGSQPVEYPYTIIGQMASILYFSIILAFLPIAGMIENY
+>YP_626379.1 cytochrome b [Elephas maximus] ABC17903.1 cytochrome b (mitochondrion) [Elephas maximus] ABQ57323.1 cytochrome b (mitochondrion) [Elephas maximus]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFAFHFILPFTMVALAGVHLTFLHETGSNNPLGL
+TSNSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPFLHTSKHRSMMLRPLSQVLFWTLTMD
+LLTLTWIGSQPVEYPYTIIGQMASILYFSIILAFLPIAGMIENY
+>AAD44169.1 cytochrome b, partial (mitochondrion) [Elephas maximus indicus]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFAFHFILPFTMVALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPFLHTSKHRSMMLRPLSQVLFWTLTMD
+LLTLTWIGSQPVEHPYIIIGQMASILYFSIILAFLPIAGMIENY
+>BAA25017.1 cytochrome b (mitochondrion) [Elephas maximus] CAD21998.1 cytochrome b (mitochondrion) [Elephas maximus]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFAFHFILPFTMVALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPFLHTSKHRSMMLRPLSQVLFWTLTMD
+LLTLTWIGSQPVEHPYIIIGQMASILYFSIILAFLPIAGMIENY
+>AAD44163.1 cytochrome b, partial (mitochondrion) [Elephas maximus indicus]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFAFHFILPFTMVALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLXXLILXLLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPFLHTSKHRSMMLRPLSQALFWTLTMD
+LLTLTWIGSQPVEYPYTIIGQMASILYFSIILAFLPIAGMIENY
+>O47885.1 RecName: Full=Cytochrome b; AltName: Full=Complex III subunit 3; AltName: Full=Complex III subunit III; AltName: Full=Cytochrome b-c1 complex subunit 3; AltName: Full=Ubiquinol-cytochrome-c reductase complex cytochrome b subunit BAA25009.1 cytochrome b (mitochondrion) [Elephas maximus]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFAFHFILPFTMVALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPLLHTSKHRSMMLRPLSQVLFWTLTMD
+LLTLTWIGSQPVEHPYIIIGQMASILYFSIILAFLPIAGMIENY
+>NP_009291.1 cytochrome b [Loxodonta africana] P24958.2 RecName: Full=Cytochrome b; AltName: Full=Complex III subunit 3; AltName: Full=Complex III subunit III; AltName: Full=Cytochrome b-c1 complex subunit 3; AltName: Full=Ubiquinol-cytochrome-c reductase complex cytochrome b subunit BAA25011.1 cytochrome b (mitochondrion) [Loxodonta africana] CAA12150.1 cytochrome b (mitochondrion) [Loxodonta africana] AAU89087.1 cytochrome b (mitochondrion) [Loxodonta africana] AAU89088.1 cytochrome b (mitochondrion) [Loxodonta africana] AAU89089.1 cytochrome b (mitochondrion) [Loxodonta africana] AAU89090.1 cytochrome b (mitochondrion) [Loxodonta africana] AAW01432.1 cytochrome b (mitochondrion) [Loxodonta africana] AAW01433.1 cytochrome b (mitochondrion) [Loxodonta africana] AAW01434.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09398.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09399.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09404.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09405.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09411.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09412.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09414.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09415.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09421.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09424.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09428.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09429.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09430.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09431.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09432.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09433.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09435.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09436.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09442.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09443.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09447.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09452.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09456.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09458.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09462.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09463.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09465.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09470.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09476.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09477.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09478.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09482.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09483.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09485.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09488.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09490.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09492.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09495.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09497.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09499.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09500.1 cytochrome b (mitochondrion) [Loxodonta africana] ABC17916.1 cytochrome b (mitochondrion) [Loxodonta africana] BAH57983.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93881.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94145.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94151.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94157.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94163.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94166.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94178.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94217.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94226.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94469.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94472.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94475.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94478.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94493.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94499.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94502.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94505.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94511.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94523.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94529.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94532.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94535.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94538.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94541.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94544.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94547.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94556.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94559.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94565.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94577.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94589.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94601.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94604.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94820.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94823.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94826.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94829.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94832.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94835.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94838.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94844.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94847.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94859.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94871.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94874.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94877.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94880.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94886.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94901.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94904.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94913.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94916.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94922.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94925.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94928.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94931.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94934.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94937.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94943.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94946.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94949.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94952.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94955.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94958.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94961.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94964.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95021.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95024.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95027.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95030.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95033.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95039.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95042.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95048.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95051.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95054.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95057.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95069.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95078.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95081.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95084.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95279.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95468.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95471.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95474.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95477.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95483.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95486.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95489.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95498.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95510.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95753.1 cytochrome b (mitochondrion) [Loxodonta africana]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGLMPLLHTSKHRSMMLRPLSQVLFWTLTMD
+LLTLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGVIENY
+>AFX95036.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95066.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95072.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95075.1 cytochrome b (mitochondrion) [Loxodonta africana]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGLMPLLHTSKHRSMMLRPLSQVLFWTLTMD
+LLTLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGVIENY
+>AAR06164.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AAW01442.1 cytochrome b (mitochondrion) [Loxodonta africana] AAW01445.1 cytochrome b (mitochondrion) [Loxodonta africana]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFALHFILPFTMTALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPLLHTSKYRSMMLRPLSQVLFWTLTMD
+LLMLTWIGSQPVEYPYTIIGQMASILYFSIILAFLPIAGMIENY
+>AFX95228.1 cytochrome b (mitochondrion) [Loxodonta africana]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFALHFILPFTMTALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPLLHTSKYRSMMLRPLSQVLFWTLTMD
+LLMLTWIGSQPVEYPYTIIGQMASILYFSIILAFLPIAGVIENY
+>AFX94841.1 cytochrome b (mitochondrion) [Loxodonta africana]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGLMPLLHTSKHRSMMLRPLSQVLFWTLTMD
+LLTLTWIGSQPVEHPYIIIGQMASILYFSIILAFLPIAGVIENY
+>AAX09420.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AAX09453.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AAX09461.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AAX09491.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09498.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94148.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94154.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94160.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94169.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94196.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94211.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94214.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94220.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94223.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94229.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94232.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94235.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94238.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94466.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94481.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94484.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94490.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94496.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94508.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94514.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94517.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94520.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94553.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94571.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94574.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94580.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94586.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94592.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94595.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94598.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94607.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94613.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95330.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95333.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95336.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95339.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95342.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95345.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95348.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95354.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95360.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95363.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95366.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95372.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95375.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95381.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95384.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95399.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95405.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95408.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95729.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95732.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95735.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95744.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95750.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95759.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95762.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95768.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95777.1 cytochrome b (mitochondrion) [Loxodonta africana]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFALHFILPFTMTALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPLLHTSKYRSMMLRPLSQVLFWTLTMD
+LLMLTWIGSQPVEYPYTIIGQMASILYFSIILAFLPIAGMIENY
+>AQU14166.1 cytochrome b (mitochondrion) [Elephas antiquus]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPLLHTSKYRSMMLRPLSQVLFWTLTMD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>AAU89100.1 cytochrome b (mitochondrion) [Loxodonta africana]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTSLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPLLHTSKHRSMMLRPLSQILFWTLTMD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>AFX94562.1 cytochrome b (mitochondrion) [Loxodonta africana]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYTPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGLMPLLHTSKHRSMMLRPLSQVLFWTLTMD
+LLTLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGVIENY
+>AAX09408.1 cytochrome b (mitochondrion) [Loxodonta africana]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSSDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGLMPLLHTSKHRSMMLRPLSQVLFWTLTMD
+LLTLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGVIENY
+>AAD44172.1 cytochrome b, partial (mitochondrion) [Loxodonta cyclotis]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGXHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGLMPLLHTSKHRSMMLRPLSQVLFWTLTMD
+LLTLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGVIENY
+>AAR06167.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94082.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94091.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94103.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94394.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94970.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94973.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94976.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94979.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94982.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94985.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94988.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94991.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94997.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX95000.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX95003.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX95006.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX95009.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX95012.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX95015.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX95018.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX95321.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX95660.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95693.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95696.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95699.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95708.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95711.1 cytochrome b (mitochondrion) [Loxodonta africana] AHW57976.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AQY56411.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AQY56424.1 cytochrome b (mitochondrion) [Loxodonta cyclotis]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTSLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPLLHTSKYRSMMLRPLSQILFWTLTMD
+LLTLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>AFX95738.1 cytochrome b (mitochondrion) [Loxodonta africana]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPCIGTNLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+ISDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPLLHTSKHRSMMLRPLSQVLFWTLTMD
+LLTLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGVIENY
+>AFX94610.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95357.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95378.1 cytochrome b (mitochondrion) [Loxodonta africana]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKTTLNRFFALHFILPFTMTALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPLLHTSKYRSMMLRPLSQVLFWTLTMD
+LLMLTWIGSQPVEYPYTIIGQMASILYFSIILAFLPIAGMIENY
+>AAW01441.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09416.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AAX09422.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AAX09425.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AAX09445.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AAX09446.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AAX09459.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AAX09464.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AAX09471.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AAX09472.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AAX09473.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AAX09486.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94526.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94583.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95369.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95390.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95393.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95396.1 cytochrome b (mitochondrion) [Loxodonta africana]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFALHFILPFTMTALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPLLHTSKYRSMMLRPLSQVLFWTLTMD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>AAR06165.1 cytochrome b (mitochondrion) [Loxodonta cyclotis]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFALHFILPFTMTALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPLLHTSKYRSMMLRPLSQVLFWTLTMD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>AAR06166.1 cytochrome b (mitochondrion) [Loxodonta cyclotis]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFALHFILPFTMTALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPLLHTSKYRSMMLRPLSQVLFWTLTMD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>AAX09439.1 cytochrome b (mitochondrion) [Loxodonta cyclotis]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFALHFILPFTMTALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGLMPLLHTSKYRSMMLRPLSQVLFWTLTMD
+LLMLTWIGSQPVEYPYTIIGQMASILYFSIILAFLPIAGMIENY
+>AAX12538.1 cytochrome b (mitochondrion) [Elephas maximus] AAX12539.1 cytochrome b (mitochondrion) [Elephas maximus] AAX12541.1 cytochrome b (mitochondrion) [Elephas maximus]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFAFHFILPFTMVALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGLMPLLHTSKHRSMMLRPLSQVLFWALTMD
+LLMLTWIGSQPVEYPYIAIGQMASILYFSIILAFLPIAGMIENY
+>AAX12540.1 cytochrome b (mitochondrion) [Elephas maximus] AAX12542.1 cytochrome b (mitochondrion) [Elephas maximus]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFAFHFILPFTMVALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGLMPLLHTSKHRSMMLRPLSQVLFWALTMD
+LLMLTWIGSQPVEYPYIAIGQMASILYFSIILAFLPIAGMIENY
+>AAR06168.1 cytochrome b (mitochondrion) [Loxodonta cyclotis]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFALHFILPFTMTALAGVHLTFLHETGSNNPLGL
+ISDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPLLHTSKYRSMMLRPLSQILFWTLTMD
+LLMLTWIGSQPVEYPYTIIGQMASILYFSIILAFLPIAGMIENY
+>AFX94463.1 cytochrome b (mitochondrion) [Loxodonta cyclotis x africana]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFALHFILPFTMTALAGVHLTFLHETGSNNPLGL
+ISDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPLLHTSKYRSMMLRPLSQILFWTLTMD
+LLMLTWIGSQPVEYPYTIIGQMASILYFSIILAFLPIAGMIENY
+>AAX12537.1 cytochrome b (mitochondrion) [Elephas maximus]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFAFHFILPFTMVALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGLMPLLHTSKHRSMMLRPLSQVLFWALTMD
+LLMLTWVGSQPVEYPYIAIGQMASILYFSIILAFLPIAGMIENY
+>AAU89097.1 cytochrome b (mitochondrion) [Loxodonta africana]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPCIGTNLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+ISDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGLMPLLHTSKHRSMMLRPLSQVLFWTLTMD
+LLTLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGVIENY
+>BAA25012.1 cytochrome b (mitochondrion) [Loxodonta africana] BAA25013.1 cytochrome b (mitochondrion) [Loxodonta africana] AAU89091.1 cytochrome b (mitochondrion) [Loxodonta africana] AAU89094.1 cytochrome b (mitochondrion) [Loxodonta africana] AAU89095.1 cytochrome b (mitochondrion) [Loxodonta africana] AAU89096.1 cytochrome b (mitochondrion) [Loxodonta africana] AAU89098.1 cytochrome b (mitochondrion) [Loxodonta africana] AAW01435.1 cytochrome b (mitochondrion) [Loxodonta africana] AAW01436.1 cytochrome b (mitochondrion) [Loxodonta africana] AAW01437.1 cytochrome b (mitochondrion) [Loxodonta africana] AAW01443.1 cytochrome b (mitochondrion) [Loxodonta africana] AAW01444.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09394.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09395.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09396.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09397.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09400.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09401.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09402.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09403.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09406.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09407.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09409.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09410.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09413.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09417.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09423.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09426.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09427.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09434.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09437.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09438.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09440.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09448.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09449.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09450.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09451.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09454.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09455.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09457.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09460.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09466.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09467.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09469.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09474.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09475.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09479.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09481.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09484.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09487.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09489.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09493.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09494.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09496.1 cytochrome b (mitochondrion) [Loxodonta africana] AAX09501.1 cytochrome b (mitochondrion) [Loxodonta africana] BAH03670.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93821.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93824.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93827.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93830.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93833.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93836.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93839.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93842.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93845.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93848.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93851.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93854.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93857.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93860.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93863.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93866.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93869.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93872.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93875.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93878.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93884.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93887.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93890.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93893.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93896.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93899.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93902.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93905.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93908.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93911.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93914.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93917.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93920.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93923.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93926.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93929.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93932.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93935.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93938.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93941.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93944.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93947.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93950.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93953.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93956.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93959.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93962.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93965.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93968.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93971.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93974.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93977.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93980.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93983.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93986.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93989.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93992.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93995.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX93998.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94001.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94004.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94007.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94010.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94013.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94016.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94019.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94022.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94025.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94028.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94031.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94034.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94037.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94040.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94043.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94046.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94049.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94052.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94055.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94058.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94061.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94064.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94067.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94070.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94073.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94076.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94079.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94097.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94106.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94109.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94112.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94115.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94118.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94121.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94124.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94127.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94130.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94133.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94136.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94139.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94142.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94172.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94175.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94181.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94184.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94187.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94190.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94193.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94199.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94202.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94205.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94208.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94241.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94430.1 cytochrome b (mitochondrion) [Loxodonta cyclotis x africana] AFX94487.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94550.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94616.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94619.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94622.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94625.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94628.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94631.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94634.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94637.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94640.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94643.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94646.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94649.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94652.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94655.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94658.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94661.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94664.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94667.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94670.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94673.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94676.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94679.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94682.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94688.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94691.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94694.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94697.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94700.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94703.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94706.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94709.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94712.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94715.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94718.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94721.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94724.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94727.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94730.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94733.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94736.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94739.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94742.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94745.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94748.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94751.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94754.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94757.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94760.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94763.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94766.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94769.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94772.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94775.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94778.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94781.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94784.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94787.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94790.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94793.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94796.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94799.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94802.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94805.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94808.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94811.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94814.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94817.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94850.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94853.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94856.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94889.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94892.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94895.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94898.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94910.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94919.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94940.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95045.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95060.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95063.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95087.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95090.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95093.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95114.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95117.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95120.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95123.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95132.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95135.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95141.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95144.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95147.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95150.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95153.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95156.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95159.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95162.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95165.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95171.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95174.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95177.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95183.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95189.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95192.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95198.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95210.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95216.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95219.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95225.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95231.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95237.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95240.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95243.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95246.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95249.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95252.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95267.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95270.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95273.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95276.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95285.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95291.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95303.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95351.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95402.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95456.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95480.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95492.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95495.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95501.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95504.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95507.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95516.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95519.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95522.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95525.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95528.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95531.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95534.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95537.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95540.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95543.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95546.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95549.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95552.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95555.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95558.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95561.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95564.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95567.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95570.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95573.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95576.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95579.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95582.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95585.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95588.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95594.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95597.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95606.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95609.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95612.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95615.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95618.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95621.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95624.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95627.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95633.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95636.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95639.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95642.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95645.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95648.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95651.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95654.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95666.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95669.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95675.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95678.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95681.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95684.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95690.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95702.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95705.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95714.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95726.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95741.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95756.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95765.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95771.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95774.1 cytochrome b (mitochondrion) [Loxodonta africana]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPCIGTNLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+ISDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGLMPLLHTSKHRSMMLRPLSQVLFWTLTMD
+LLTLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGVIENY
+>AAR06154.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AAR06155.1 cytochrome b (mitochondrion) [Loxodonta cyclotis]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTSLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPLLHTSKYRSMMLRPLSQILFWTLTMD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>AAR06156.1 cytochrome b (mitochondrion) [Loxodonta cyclotis]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+ISDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPLLHTSKYRSMMLRPLSQILFWTLTMD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>AAX09418.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AAX09419.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AAX09441.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AAX09444.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94568.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95387.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95747.1 cytochrome b (mitochondrion) [Loxodonta africana]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMTALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPLLHTSKYRSMMLRPLSQVLFWTLTMD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>AAO14898.1 cytochrome b, partial (mitochondrion) [Loxodonta cyclotis]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFALHFILPFTMTALAGVHLTFLHETGSNNPLGL
+ISDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPLLHTSKYRSMMLRPLSQILFWTLTMD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>AFX94862.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94865.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94868.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94883.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94907.1 cytochrome b (mitochondrion) [Loxodonta africana]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPCIGTNLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+ISDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGLMPLLHTSKHRSMMLRPLSQVLFWTLTMD
+LLTLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>AAR06163.1 cytochrome b (mitochondrion) [Loxodonta cyclotis]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFALHFILPFTMTALAGVHLTFLHETGSNNPLGL
+ISDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPLLHTSKYRSMMLRPLSQILFWTLTMD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>AAR06158.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AAW01440.1 cytochrome b (mitochondrion) [Loxodonta africana] AEQ59300.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94085.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94088.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94094.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94100.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX94244.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94247.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94250.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94253.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94256.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94259.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94262.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94265.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94268.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94271.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94274.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94277.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94280.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94283.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94286.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94289.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94292.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94295.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94298.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94301.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94304.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94307.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94310.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94313.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94316.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94319.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94322.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94325.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94328.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94331.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94334.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94337.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94340.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94343.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94346.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94349.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94352.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94355.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94358.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94361.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94364.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94367.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94370.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94373.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94376.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94379.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94382.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94385.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94388.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94391.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94397.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94400.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94403.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94406.1 cytochrome b (mitochondrion) [Loxodonta cyclotis x africana] AFX94409.1 cytochrome b (mitochondrion) [Loxodonta cyclotis x africana] AFX94415.1 cytochrome b (mitochondrion) [Loxodonta cyclotis x africana] AFX94418.1 cytochrome b (mitochondrion) [Loxodonta cyclotis x africana] AFX94421.1 cytochrome b (mitochondrion) [Loxodonta cyclotis x africana] AFX94424.1 cytochrome b (mitochondrion) [Loxodonta cyclotis x africana] AFX94427.1 cytochrome b (mitochondrion) [Loxodonta cyclotis x africana] AFX94433.1 cytochrome b (mitochondrion) [Loxodonta cyclotis x africana] AFX94436.1 cytochrome b (mitochondrion) [Loxodonta cyclotis x africana] AFX94439.1 cytochrome b (mitochondrion) [Loxodonta cyclotis x africana] AFX94442.1 cytochrome b (mitochondrion) [Loxodonta cyclotis x africana] AFX94445.1 cytochrome b (mitochondrion) [Loxodonta cyclotis x africana] AFX94448.1 cytochrome b (mitochondrion) [Loxodonta cyclotis x africana] AFX94451.1 cytochrome b (mitochondrion) [Loxodonta cyclotis x africana] AFX94454.1 cytochrome b (mitochondrion) [Loxodonta cyclotis x africana] AFX94457.1 cytochrome b (mitochondrion) [Loxodonta cyclotis x africana] AFX94460.1 cytochrome b (mitochondrion) [Loxodonta cyclotis x africana] AFX94994.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX95282.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95288.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95294.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95297.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95300.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95306.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95309.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95312.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95315.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95318.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95324.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX95327.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX95411.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95414.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95417.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95420.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95423.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95426.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95429.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95432.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95435.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95438.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95441.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95444.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95447.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95450.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95453.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95459.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95462.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95465.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95513.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95591.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95600.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95603.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95630.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95657.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95663.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95672.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95687.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95717.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95720.1 cytochrome b (mitochondrion) [Loxodonta africana] AFX95723.1 cytochrome b (mitochondrion) [Loxodonta africana] AQY56385.1 cytochrome b (mitochondrion) [Loxodonta cyclotis]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFALHFILPFTMTALAGVHLTFLHETGSNNPLGL
+ISDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPLLHTSKYRSMMLRPLSQILFWTLTMD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>AAR06157.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AAR06159.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AAR06161.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AAU89101.1 cytochrome b (mitochondrion) [Loxodonta africana]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFALHFILPFTMTALAGVHLTFLHETGSNNPLGL
+ISDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPLLHTSKYRSMMLRPLSQILFWTLTMD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>AAR06160.1 cytochrome b (mitochondrion) [Loxodonta cyclotis]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFALHFILPFTMTALAGVHLTFLHETGSNNPLGL
+ISDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNFMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPLLHTSKYRSMMLRPLSQILFWTLTMD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>AAD44167.1 cytochrome b, partial (mitochondrion) [Elephas maximus indicus]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFAFHFILPFTMVALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYXLFAYAILRSVPNKLGGVLALFLSILILGLMPFLHTSXXRSMMLRPLSQVLFWTLTMD
+LLTLTWIGSQPVEHPYIIIGQMASILYFSIILAFLPIAGXIXNY
+>AAD44168.1 cytochrome b, partial (mitochondrion) [Elephas maximus indicus]
+THIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFSAIPY
+IGTNLVEWIWGGFSVDKATLNRFFAFHFILPFTMVALAGVHLTFLHETGSNNPLGLTSDS
+DKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPEWYFL
+FAYAILRSVPNKLGGVLALFLSILXXGLMPXLHTSKHRSMMLRPLSQALFWTLTMDLLXL
+TWIGXQPVEYXYTIIGQMASXLYFSIILAFLPIAGXIENY
+>AAD44164.1 cytochrome b, partial (mitochondrion) [Elephas maximus indicus]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFAFHFILPFTMVALAGVHLTFLHEXGSNKPLGL
+TSDSDKXPXHPYYTIKDFLGLLILXXXXLLXALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPFLHTSKHRSMMLRPLSQVLFWTLTMD
+LLTLTWIGSQPVEHPYIIIGQMASILYFSIILAFLPIAGMIENY
+>AHW57963.1 cytochrome b (mitochondrion) [Loxodonta cyclotis]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTSLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+ISDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPLLHTSKHRSMMLRPLSQILFWALTMD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGVIENY
+>APA38879.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILISFLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILVLGMMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYTIIGQMASILYFSIILAFLPIAGMIENH
+>AAW01439.1 cytochrome b (mitochondrion) [Loxodonta africana]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGMSLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+ISDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPLLHTSKYRSMMLRPLSQILFWTLTMD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>AAU89099.1 cytochrome b (mitochondrion) [Loxodonta cyclotis]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGMSLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+ISDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPLLHTSKYRSMMLRPLSQILFWTLTMD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>YP_007626835.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AEQ59313.1 cytochrome b (mitochondrion) [Loxodonta cyclotis] AFX94967.1 cytochrome b (mitochondrion) [Loxodonta cyclotis]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTSLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSSNPLGL
+ISDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPLLHTSKYRSMMLRPLSQILFWTLTMD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>AFX94412.1 cytochrome b (mitochondrion) [Loxodonta cyclotis x africana]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFALHFILPFTMTALAGVHLTFLHETGSNNPLGL
+ISDSDKIPFHPYYTIKDFLGLLILILLLLLLALLFPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPLLHTSKYRSMMLRPLSQILFWTLTMD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>AAD44173.1 cytochrome b, partial (mitochondrion) [Loxodonta cyclotis]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTSLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSSNPLGL
+ISDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPLLHTSKYRSMMLRPLSQILFWTLTMD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>AAR06162.1 cytochrome b (mitochondrion) [Loxodonta cyclotis]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFALHFILPFTMTALAGVHLTFLHETGSNNPLGL
+ISDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDYYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPLLHTSKYRSMMLRPLSQILFWTLTMD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>AUF72729.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILISFLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILVLGMMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENH
+>AUF72678.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILISFLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILVLGMMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENH
+>AUF72755.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILISFLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILVLGMMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENH
+>YP_009389998.1 cytochrome b (mitochondrion) [Elephas antiquus] AQU14127.1 cytochrome b (mitochondrion) [Elephas antiquus] AQU14140.1 cytochrome b (mitochondrion) [Elephas antiquus] AQU14153.1 cytochrome b (mitochondrion) [Elephas antiquus]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMVTAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTSLVEWTWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+ISDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPLLHTSKYRSMMLRPLSQILFWTLTMD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>APA38996.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILISFLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILVLGMMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENH
+>ANH54929.1 cytochrome b (mitochondrion) [Mammuthus primigenius] APA38957.1 cytochrome b (mitochondrion) [Mammuthus primigenius] APA39192.1 cytochrome b (mitochondrion) [Mammuthus primigenius] APA39218.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILISFLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILVLGMMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENH
+>APA38970.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILISFLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILVLGMMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENH
+>AUF72820.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+CLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFSA
+IPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGLT
+SDSDKIPFHPYYTIKDFLGLLILISFLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPEW
+YFLFAYAILRSVPNKLGGVLALFLSILVLGMMPLLHTSKHRSMMLRPLSQVLFWTLATDL
+LMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENH
+>APA38944.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMXLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILISFLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILVLGMMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENH
+>AUF72742.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDLLGLLILISFLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILVLGMMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENH
+>APA38983.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILISFLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALXLSILVLGMMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYXIIGQMASILYFSIILAFLPIAGMIENH
+>ANH54604.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLIXXXXXXXXXXXXXDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALXXSXXXLXIMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>APA39022.1 cytochrome b, partial (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVXTNLFS
+AXPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILISFLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILVLGMMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYXIIGQMASILYFSIILAFLPIAGMIENH
+>APA39101.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVXTNLFS
+AXPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILISFLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILVLGMMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYXIIGQMASILYFSIILAFLPIAGMIENH
+>ANH55111.1 cytochrome b (mitochondrion) [Mammuthus sp.]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILXXXXXXXXXLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGIMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>APA38918.1 cytochrome b, partial (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVXTNLFS
+AXPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILIXXXXLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALXLSILVXXXXPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYXIIGQMASILYFSIILAFLPIAGMIENH
+>APA39088.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVXTNLFS
+AXPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILISFLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALXLSILVLGMMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYTIIGQMASILYFSIILAFLPIAGMIEN
+>APA38931.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVXTNLFS
+AXPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILISFLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALXLSILVLGMMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYXIIGQMASILYFSIILAFLPIAGMIEN
+>APA39035.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILISFLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILVLGMMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYXIIGQMASILYFSIILAFLPIAG
+>ANH54695.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLIXXXXXXXXXXXXPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGIMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>AUF72703.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYXYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILISFLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSXXXXXMMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENH
+>ANH54864.1 cytochrome b (mitochondrion) [Mammuthus jeffersonii]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILIXXXXXLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGIMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>ANH54643.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILXXXXLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGIMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>AGQ22412.1 cytochrome b, partial (mitochondrion) [Elephas maximus]
+MLLLITMATAFMGYVLPWGQMSFWGATVITNLFSAIPYIGTNLVEWIWGGFSVDKATLNR
+FFAFHFILPFTMVALAGVHLTFLHETGSNNPLGLTSDSDKIPFHPYYTIKDFLGLLILIL
+LLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPEWYFLFAYAILRSVPNKLGGVLALFLS
+ILILGLMPFLHTSKHRSMMLRPLSQVLFWTLTMDLLTLTWIGSQPVEYPYTIIGQMASIL
+YFSIILAFLPIAGMI
+>APA39048.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVXTNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILIXFLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALXLSIXXXXMMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYXIIGQMASILYFSIILAFLPIAGMIENH
+>AAD44165.1 cytochrome b, partial (mitochondrion) [Elephas maximus indicus]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTNLVEWIWGGFSVDKATLNRFFAFHFILPFTMVALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILLLLLLAXXXXXXLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALFLSILILGLMPFLHTSKHRSMMLRPLSQVLFWTLTMD
+LLTLTWIGSQPVEHPYIIIGQMASILYFSIILAFLPIAGMIENY
+>APA38723.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGMMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEHPYIIIGQMASILYFSIILAFLPIAGMIENY
+>ANH55033.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILXXXXXXXLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGIMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>ANH54591.1 cytochrome b (mitochondrion) [Mammuthus sp.]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILXXXXLALXXXDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGIMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>ABV45600.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGILALLLSILILGMMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEHPYIIIGQMASILYFSIILAFLPIAGMIENY
+>ABV45746.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLPILILFLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGIMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>ABV45613.1 cytochrome b (mitochondrion) [Mammuthus primigenius] ABV45626.1 cytochrome b (mitochondrion) [Mammuthus primigenius] ANH55020.1 cytochrome b (mitochondrion) [Mammuthus primigenius] APA38671.1 cytochrome b (mitochondrion) [Mammuthus primigenius] AUJ22362.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILISLLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGMMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEHPYIIIGQMASILYFSIILAFLPIAGMIENY
+>ANH54994.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILFLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILVLGMMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENH
+>APA38905.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AXPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILISXXXXXXLXSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALXLSXLXLGMMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYXIIGQMASILYFSIILAFLPIAGMIEN
+>APA38827.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILFLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGIMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>ANH54682.1 cytochrome b (mitochondrion) [Mammuthus sp.] ANH55046.1 cytochrome b (mitochondrion) [Mammuthus sp.] ANH55059.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILFLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGIMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>ANH54955.1 cytochrome b (mitochondrion) [Mammuthus sp.]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLXXXXXXXXXXXXXSXXMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGIMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYIIIGQMXSILYFSIILAFLPIAGMIENY
+>ANH54981.1 cytochrome b (mitochondrion) [Mammuthus sp.]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILFLLLLXLLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGIMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>YP_398766.1 cytochrome b [Mammuthus primigenius] YP_004464997.1 cytochrome b [Mammuthus columbi] P92658.3 RecName: Full=Cytochrome b; AltName: Full=Complex III subunit 3; AltName: Full=Complex III subunit III; AltName: Full=Cytochrome b-c1 complex subunit 3; AltName: Full=Ubiquinol-cytochrome-c reductase complex cytochrome b subunit BAA25008.1 cytochrome b (mitochondrion) [Mammuthus primigenius] ABA29796.1 cytochrome b (mitochondrion) [Mammuthus primigenius] ABC17890.1 cytochrome b (mitochondrion) [Mammuthus primigenius] ABV45574.1 cytochrome b (mitochondrion) [Mammuthus primigenius] ABV45681.1 cytochrome b (mitochondrion) [Mammuthus primigenius] ABV45694.1 cytochrome b (mitochondrion) [Mammuthus primigenius] ABV45720.1 cytochrome b (mitochondrion) [Mammuthus primigenius] ABV45733.1 cytochrome b (mitochondrion) [Mammuthus primigenius] ABV45759.1 cytochrome b (mitochondrion) [Mammuthus primigenius] ABV45798.1 cytochrome b (mitochondrion) [Mammuthus primigenius] AEE89435.1 cytochrome b (mitochondrion) [Mammuthus columbi] AEE89448.1 cytochrome b (mitochondrion) [Mammuthus primigenius] ANH54486.1 cytochrome b (mitochondrion) [Mammuthus primigenius] ANH54499.1 cytochrome b (mitochondrion) [Mammuthus primigenius] ANH54512.1 cytochrome b (mitochondrion) [Mammuthus primigenius] ANH54525.1 cytochrome b (mitochondrion) [Mammuthus primigenius] ANH54552.1 cytochrome b (mitochondrion) [Mammuthus sp.] ANH54565.1 cytochrome b (mitochondrion) [Mammuthus primigenius] ANH54630.1 cytochrome b (mitochondrion) [Mammuthus primigenius] ANH54656.1 cytochrome b (mitochondrion) [Mammuthus primigenius] ANH54669.1 cytochrome b (mitochondrion) [Mammuthus sp.] ANH54721.1 cytochrome b (mitochondrion) [Mammuthus sp.] ANH54747.1 cytochrome b (mitochondrion) [Mammuthus columbi] ANH54760.1 cytochrome b (mitochondrion) [Mammuthus sp.] ANH54773.1 cytochrome b (mitochondrion) [Mammuthus columbi] ANH54799.1 cytochrome b (mitochondrion) [Mammuthus columbi] ANH54812.1 cytochrome b (mitochondrion) [Mammuthus columbi] ANH54825.1 cytochrome b (mitochondrion) [Mammuthus columbi] ANH54838.1 cytochrome b (mitochondrion) [Mammuthus columbi] ANH54851.1 cytochrome b (mitochondrion) [Mammuthus sp.] ANH54890.1 cytochrome b (mitochondrion) [Mammuthus sp.] ANH54916.1 cytochrome b (mitochondrion) [Mammuthus columbi] ANH55007.1 cytochrome b (mitochondrion) [Mammuthus primigenius] ANH55072.1 cytochrome b (mitochondrion) [Mammuthus columbi] ANH55137.1 cytochrome b (mitochondrion) [Mammuthus sp.] ANH55202.1 cytochrome b (mitochondrion) [Mammuthus sp.] ANH55215.1 cytochrome b (mitochondrion) [Mammuthus sp.] ANH55267.1 cytochrome b (mitochondrion) [Mammuthus columbi] ANH55318.1 cytochrome b (mitochondrion) [Mammuthus sp.] ANH55357.1 cytochrome b (mitochondrion) [Mammuthus jeffersonii] ANH55396.1 cytochrome b (mitochondrion) [Mammuthus sp.] ANH55422.1 cytochrome b (mitochondrion) [Mammuthus primigenius] ANH55448.1 cytochrome b (mitochondrion) [Mammuthus primigenius] APA38658.1 cytochrome b (mitochondrion) [Mammuthus primigenius] APA38684.1 cytochrome b (mitochondrion) [Mammuthus primigenius] APA38697.1 cytochrome b (mitochondrion) [Mammuthus primigenius] APA38710.1 cytochrome b (mitochondrion) [Mammuthus primigenius] APA38736.1 cytochrome b (mitochondrion) [Mammuthus primigenius] APA38762.1 cytochrome b (mitochondrion) [Mammuthus primigenius] APA38775.1 cytochrome b (mitochondrion) [Mammuthus primigenius] APA38788.1 cytochrome b (mitochondrion) [Mammuthus primigenius] APA38801.1 cytochrome b (mitochondrion) [Mammuthus primigenius] APA38814.1 cytochrome b (mitochondrion) [Mammuthus primigenius] APA38840.1 cytochrome b (mitochondrion) [Mammuthus primigenius] APA38853.1 cytochrome b (mitochondrion) [Mammuthus primigenius] APA39140.1 cytochrome b (mitochondrion) [Mammuthus primigenius] APA39153.1 cytochrome b (mitochondrion) [Mammuthus primigenius] APA39179.1 cytochrome b (mitochondrion) [Mammuthus primigenius] APA39205.1 cytochrome b (mitochondrion) [Mammuthus primigenius] APA39244.1 cytochrome b (mitochondrion) [Mammuthus primigenius] APA39257.1 cytochrome b (mitochondrion) [Mammuthus primigenius] APA39270.1 cytochrome b (mitochondrion) [Mammuthus primigenius] APA39283.1 cytochrome b (mitochondrion) [Mammuthus primigenius] APA39296.1 cytochrome b (mitochondrion) [Mammuthus primigenius] APA39309.1 cytochrome b (mitochondrion) [Mammuthus primigenius] APA39322.1 cytochrome b (mitochondrion) [Mammuthus primigenius] APA39335.1 cytochrome b (mitochondrion) [Mammuthus primigenius] APA39348.1 cytochrome b (mitochondrion) [Mammuthus primigenius] AUF72872.1 cytochrome b (mitochondrion) [Mammuthus primigenius] AUF72885.1 cytochrome b (mitochondrion) [Mammuthus primigenius] AUF72909.1 cytochrome b (mitochondrion) [Mammuthus primigenius] AUJ22128.1 cytochrome b (mitochondrion) [Mammuthus primigenius] AUJ22141.1 cytochrome b (mitochondrion) [Mammuthus primigenius] AUJ22154.1 cytochrome b (mitochondrion) [Mammuthus primigenius] AUJ22179.1 cytochrome b (mitochondrion) [Mammuthus primigenius] AUJ22193.1 cytochrome b (mitochondrion) [Mammuthus primigenius] AUJ22232.1 cytochrome b (mitochondrion) [Mammuthus primigenius] AUJ22258.1 cytochrome b (mitochondrion) [Mammuthus primigenius] AUJ22310.1 cytochrome b (mitochondrion) [Mammuthus primigenius] AUJ22323.1 cytochrome b (mitochondrion) [Mammuthus primigenius] AUJ22336.1 cytochrome b (mitochondrion) [Mammuthus primigenius] AUJ22349.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILFLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGIMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>ABV45587.1 cytochrome b (mitochondrion) [Mammuthus primigenius] ABV45772.1 cytochrome b (mitochondrion) [Mammuthus primigenius] ABV45785.1 cytochrome b (mitochondrion) [Mammuthus primigenius] BAF96964.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILFLLLLTLLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGIMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>AOP18831.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILFLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGIMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>AUJ22218.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILFLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGIMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENH
+>APA38866.1 cytochrome b, partial (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILFLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGIMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>ANH55241.1 cytochrome b (mitochondrion) [Mammuthus columbi]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILFLXXXXXLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGIMPLLHTSKHRXMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>APA38892.1 cytochrome b (mitochondrion) [Mammuthus primigenius] APA39114.1 cytochrome b (mitochondrion) [Mammuthus primigenius] AUF72716.1 cytochrome b (mitochondrion) [Mammuthus primigenius] AUF72781.1 cytochrome b (mitochondrion) [Mammuthus primigenius] AUF72807.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILISFLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILVLGMMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVDYPYIIIGQVASILYFSIILAFLPIAGMIENH
+>AUF72768.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILISFLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILVLGMMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVDYPYIIIGQVASILYFSIILAFLPIAGMIENH
+>ANH54942.1 cytochrome b (mitochondrion) [Mammuthus sp.]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILFLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGIMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPMEYPYIIIGQMASILYFSIILAFLPIAGMIENY
+>ATX68788.1 cytochrome b (mitochondrion) [Mammuthus primigenius]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFS
+AIPYIGTDLVEWIWGGFSVDKATLNRFFALHFILPFTMIALAGVHLTFLHETGSNNPLGL
+TSDSDKIPFHPYYTIKDFLGLLILILFLLLLALLSPDMLGDPDNYMPADPLNTPLHIKPE
+WYFLFAYAILRSVPNKLGGVLALLLSILILGIMPLLHTSKHRSMMLRPLSQVLFWTLATD
+LLMLTWIGSQPVEYPYIIIGQMASILYFSIILVFLPIAGMIENY

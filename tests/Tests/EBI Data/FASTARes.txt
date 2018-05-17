@@ -1,0 +1,2889 @@
+# /nfs/public/release/wp-jdispatcher/latest/appbin/linux-x86_64/fasta-36.3.7b/fasta36 -l /nfs/public/release/wp-jdispatcher/latest/data/idata/latest/fastacfg/fasta3db -L -T 8 -n -r +5/-4 -f -14 -g -4 -E "10.0 -1.0" -F 0.0 -b 50 -d 50 -m "F9 fasta-I20180115-163914-0648-98441597-p1m.m9" -z 1 @:1- +em_rel+ 6
+FASTA searches a protein or DNA sequence data bank
+ version 36.3.7b Jun, 2015(preload9)
+Please cite:
+ W.R. Pearson & D.J. Lipman PNAS (1988) 85:2444-2448
+
+Query: @
+  1>>>ENA|BAA20512|BAA20512.1 Cyprinus carpio (common carp) alpha-globin  - 432 nt
+Library: ENA Sequence
+  241444286068 residues in 205557721 sequences
+
+Statistics:  Expectation_n fit: rho(ln(x))= 9.7745+/-0.000117; mu= 8.5594+/- 0.007
+ mean_var=88.0252+/-22.560, 0's: 6 Z-trim(111.4): 288  B-trim: 2 in 1/70
+ Lambda= 0.136701
+ statistics sampled from 60000 (85157) to 24801655 sequences
+Algorithm: FASTA (3.8 Nov 2011) [optimized]
+Parameters: DNA matrix (5:-4), open/ext: -14/-4
+ ktup: 6, E-join: 0.25 (0.192), E-opt: 0.05 (0.0783), width:  16
+ Scan time: 6213.510
+
+The best scores are:                                      opt bits E(206115194)
+EM_EST:EX881837 EX881837.1 CcLXCa36b08n1 ECC C ( 584) [f] 2133 429.1 6.8e-116
+EM_EST:EX881725 EX881725.1 CcLXBa35m06n1 ECB C ( 600) [f] 2133 429.1 6.8e-116
+EM_EST:EX882612 EX882612.1 CcLXCa38f09n1 ECC C ( 603) [f] 2133 429.1 6.9e-116
+EM_EST:EX882324 EX882324.1 CcLXCa37h17n1 ECC C ( 604) [f] 2133 429.1 6.9e-116
+EM_EST:EX881467 EX881467.1 CcLXBa35a11n1 ECB C ( 605) [f] 2133 429.1 6.9e-116
+EM_EST:EX882182 EX882182.1 CcLXCa37b02n1 ECC C ( 606) [f] 2133 429.1 6.9e-116
+EM_EST:EX882459 EX882459.1 CcLXCa37n21n1 ECC C ( 606) [f] 2133 429.1 6.9e-116
+EM_EST:EX881069 EX881069.1 CcLXBa33o14n1 ECB C ( 610) [f] 2133 429.1 6.9e-116
+EM_EST:EX882987 EX882987.1 CcLXCa39h07n1 ECC C ( 611) [f] 2133 429.1 6.9e-116
+EM_EST:EX882595 EX882595.1 CcLXCa38e14n1 ECC C ( 622) [f] 2133 429.1 6.9e-116
+EM_EST:EX882689 EX882689.1 CcLXCa38j03n1 ECC C ( 634) [f] 2133 429.1  7e-116
+EM_EST:EX881001 EX881001.1 CcLXBa33l03n1 ECB C ( 640) [f] 2133 429.1  7e-116
+EM_EST:EX882935 EX882935.1 CcLXCa39e18n1 ECC C ( 648) [f] 2133 429.1  7e-116
+EM_EST:EX886030 EX886030.1 CcLXBa33g15n1 ECB C ( 688) [f] 2133 429.1 7.2e-116
+EM_EST:EX882335 EX882335.1 CcLXCa37i06n1 ECC C ( 879) [f] 2133 429.0 7.8e-116
+EM_EST:EX881385 EX881385.1 CcLXBa34m20n1 ECB C ( 608) [f] 2128 428.1 1.4e-115
+EM_EST:EX882444 EX882444.1 CcLXCa37n04n1 ECC C ( 625) [f] 2124 427.3 2.4e-115
+EM_EST:EX882209 EX882209.1 CcLXCa37c08n1 ECC C ( 640) [f] 2124 427.3 2.4e-115
+EM_EST:EX882325 EX882325.1 CcLXCa37h19n1 ECC C ( 640) [f] 2124 427.3 2.4e-115
+EM_EST:EX882667 EX882667.1 CcLXCa38h24n1 ECC C ( 647) [f] 2124 427.3 2.4e-115
+EM_EST:EX880976 EX880976.1 CcLXBa33k02n1 ECB C ( 649) [f] 2124 427.3 2.4e-115
+EM_EST:CF661656 CF661656.2 CcLX13a39b06f1 Carp ( 528) [f] 2115 425.6 7.7e-115
+EM_EST:EX882979 EX882979.1 CcLXCa39g21n1 ECC C ( 591) [f] 2115 425.6  8e-115
+EM_EST:CF662214 CF662214.2 CcLX13a40p24f1 Carp ( 595) [f] 2115 425.6  8e-115
+EM_EST:EX882932 EX882932.1 CcLXCa39e14n1 ECC C ( 601) [f] 2115 425.6  8e-115
+EM_EST:EX882532 EX882532.1 CcLXCa38b06n1 ECC C ( 655) [f] 2115 425.5 8.3e-115
+EM_EST:EX881053 EX881053.1 CcLXBa33n18n1 ECB C ( 667) [f] 2115 425.5 8.3e-115
+EM_EST:EX882837 EX882837.1 CcLXCa39a04n1 ECC C ( 896) [f] 2115 425.4 9.2e-115
+EM_EST:EX879922 EX879922.1 CcLXAa30j04n1 ECA C ( 993) [f] 2101 422.6 6.4e-114
+EM_EST:AU183354 AU183354.1 Cyprinus carpio cDN ( 530) [f] 2097 422.1  9e-114
+EM_EST:AU183370 AU183370.1 Cyprinus carpio cDN ( 590) [f] 2097 422.0 9.3e-114
+EM_EST:AU301019 AU301019.1 Cyprinus carpio cDN ( 606) [f] 2097 422.0 9.4e-114
+EM_EST:EX880914 EX880914.1 CcLXBa33h09n1 ECB C ( 718) [f] 2097 421.9  1e-113
+EM_EST:EX882206 EX882206.1 CcLXCa37c04n1 ECC C ( 595) [f] 2092 421.1 1.9e-113
+EM_EST:CA970244 CA970244.2 CcLL03a12e18f3 Carp ( 521) [f] 2088 420.3 3.1e-113
+EM_EST:CF662000 CF662000.2 CcLX13a40d18f1 Carp ( 573) [f] 2088 420.3 3.2e-113
+EM_EST:EX825026 EX825026.1 CcLXMa64b24n1 Monts ( 584) [f] 2088 420.3 3.2e-113
+EM_EST:EX880672 EX880672.1 CcLXBa32l09n1 ECB C ( 585) [f] 2088 420.3 3.2e-113
+EM_EST:EX881712 EX881712.1 CcLXBa35l16n1 ECB C ( 587) [f] 2088 420.3 3.2e-113
+EM_EST:EX881718 EX881718.1 CcLXBa35l22n1 ECB C ( 591) [f] 2088 420.3 3.2e-113
+EM_EST:EX882757 EX882757.1 CcLXCa38m10n1 ECC C ( 594) [f] 2088 420.3 3.2e-113
+EM_EST:EX882017 EX882017.1 CcLXCa36j14n1 ECC C ( 595) [f] 2088 420.3 3.2e-113
+EM_EST:EX881374 EX881374.1 CcLXBa34m09n1 ECB C ( 598) [f] 2088 420.3 3.2e-113
+EM_EST:EX881401 EX881401.1 CcLXBa34n13n1 ECB C ( 599) [f] 2088 420.3 3.2e-113
+EM_EST:EX881904 EX881904.1 CcLXCa36e08n1 ECC C ( 599) [f] 2088 420.3 3.2e-113
+EM_EST:EX881591 EX881591.1 CcLXBa35g07n1 ECB C ( 600) [f] 2088 420.3 3.2e-113
+EM_EST:EX882473 EX882473.1 CcLXCa37o11n1 ECC C ( 601) [f] 2088 420.3 3.2e-113
+EM_EST:EX881678 EX881678.1 CcLXBa35k03n1 ECB C ( 601) [f] 2088 420.3 3.2e-113
+EM_EST:EX883060 EX883060.1 CcLXCa39k15n1 ECC C ( 601) [f] 2088 420.3 3.2e-113
+EM_EST:EX882361 EX882361.1 CcLXCa37j12n1 ECC C ( 601) [f] 2088 420.3 3.2e-113
+
+>>EM_EST:EX881837 EX881837.1 CcLXCa36b08n1 ECC Cyprinus carpio
+cDNA clone 36b08 5' LD, mRNA sequence. (584 nt)
+ initn: 2133 init1: 2133 opt: 2133  Z-score: 2267.8  bits: 429.1 E(206115194): 6.8e-116
+banded Smith-Waterman score: 2133; 99.3% identity (99.3% similar) in 432 nt overlap (1-432:72-503)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCAGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+              50        60        70        80        90       100
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+             110       120       130       140       150       160
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+             170       180       190       200       210       220
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+             230       240       250       260       270       280
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+             290       300       310       320       330       340
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+             350       360       370       380       390       400
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+             410       420       430       440       450       460
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+             470       480       490       500       510       520
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+             530       540       550       560       570       580
+
+>>EM_EST:EX881725 EX881725.1 CcLXBa35m06n1 ECB Cyprinus carpio
+cDNA clone 35m06 5' LD, mRNA sequence. (600 nt)
+ initn: 2133 init1: 2133 opt: 2133  Z-score: 2267.6  bits: 429.1 E(206115194): 6.8e-116
+banded Smith-Waterman score: 2133; 99.3% identity (99.3% similar) in 432 nt overlap (1-432:72-503)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCAGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+              50        60        70        80        90       100
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+             110       120       130       140       150       160
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+             170       180       190       200       210       220
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+             230       240       250       260       270       280
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+             290       300       310       320       330       340
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+             350       360       370       380       390       400
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+             410       420       430       440       450       460
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+             470       480       490       500       510       520
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+             530       540       550       560       570       580
+
+>>EM_EST:EX882612 EX882612.1 CcLXCa38f09n1 ECC Cyprinus carpio
+cDNA clone 38f09 5' LD, mRNA sequence. (603 nt)
+ initn: 2133 init1: 2133 opt: 2133  Z-score: 2267.5  bits: 429.1 E(206115194): 6.9e-116
+banded Smith-Waterman score: 2133; 99.3% identity (99.3% similar) in 432 nt overlap (1-432:84-515)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCAGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+            60        70        80        90       100       110
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+           120       130       140       150       160       170
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+           180       190       200       210       220       230
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+           240       250       260       270       280       290
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+           300       310       320       330       340       350
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+           360       370       380       390       400       410
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+           420       430       440       450       460       470
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+           480       490       500       510       520       530
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+           540       550       560       570       580       590
+
+>>EM_EST:EX882324 EX882324.1 CcLXCa37h17n1 ECC Cyprinus carpio
+cDNA clone 37h17 5' LD, mRNA sequence. (604 nt)
+ initn: 2133 init1: 2133 opt: 2133  Z-score: 2267.5  bits: 429.1 E(206115194): 6.9e-116
+banded Smith-Waterman score: 2133; 99.3% identity (99.3% similar) in 432 nt overlap (1-432:78-509)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCAGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+        50        60        70        80        90       100
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       110       120       130       140       150       160
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+       170       180       190       200       210       220
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+       230       240       250       260       270       280
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       290       300       310       320       330       340
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       350       360       370       380       390       400
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       410       420       430       440       450       460
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+       470       480       490       500       510       520
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTN
+       530       540       550       560       570       580
+
+>>EM_EST:EX881467 EX881467.1 CcLXBa35a11n1 ECB Cyprinus carpio
+cDNA clone 35a11 5' LD, mRNA sequence. (605 nt)
+ initn: 2133 init1: 2133 opt: 2133  Z-score: 2267.5  bits: 429.1 E(206115194): 6.9e-116
+banded Smith-Waterman score: 2133; 99.3% identity (99.3% similar) in 432 nt overlap (1-432:76-507)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCAGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+          50        60        70        80        90       100
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+         110       120       130       140       150       160
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+         170       180       190       200       210       220
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+         230       240       250       260       270       280
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+         290       300       310       320       330       340
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+         350       360       370       380       390       400
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+         410       420       430       440       450       460
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+         470       480       490       500       510       520
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+         530       540       550       560       570       580
+
+>>EM_EST:EX882182 EX882182.1 CcLXCa37b02n1 ECC Cyprinus carpio
+cDNA clone 37b02 5' LD, mRNA sequence. (606 nt)
+ initn: 2133 init1: 2133 opt: 2133  Z-score: 2267.5  bits: 429.1 E(206115194): 6.9e-116
+banded Smith-Waterman score: 2133; 99.3% identity (99.3% similar) in 432 nt overlap (1-432:80-511)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCAGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+      50        60        70        80        90       100
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+     110       120       130       140       150       160
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+     170       180       190       200       210       220
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+     230       240       250       260       270       280
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+     290       300       310       320       330       340
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+     350       360       370       380       390       400
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+     410       420       430       440       450       460
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+     470       480       490       500       510       520
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+     530       540       550       560       570       580
+
+>>EM_EST:EX882459 EX882459.1 CcLXCa37n21n1 ECC Cyprinus carpio
+cDNA clone 37n21 5' LD, mRNA sequence. (606 nt)
+ initn: 2133 init1: 2133 opt: 2133  Z-score: 2267.5  bits: 429.1 E(206115194): 6.9e-116
+banded Smith-Waterman score: 2133; 99.3% identity (99.3% similar) in 432 nt overlap (1-432:76-507)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCAGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+          50        60        70        80        90       100
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+         110       120       130       140       150       160
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+         170       180       190       200       210       220
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+         230       240       250       260       270       280
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+         290       300       310       320       330       340
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+         350       360       370       380       390       400
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+         410       420       430       440       450       460
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+         470       480       490       500       510       520
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAATTTCTCA
+         530       540       550       560       570       580
+
+>>EM_EST:EX881069 EX881069.1 CcLXBa33o14n1 ECB Cyprinus carpio
+cDNA clone 33o14 5' LD, mRNA sequence. (610 nt)
+ initn: 2133 init1: 2133 opt: 2133  Z-score: 2267.4  bits: 429.1 E(206115194): 6.9e-116
+banded Smith-Waterman score: 2133; 99.3% identity (99.3% similar) in 432 nt overlap (1-432:77-508)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCAGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+         50        60        70        80        90       100
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+        110       120       130       140       150       160
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+        170       180       190       200       210       220
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+        230       240       250       260       270       280
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+        290       300       310       320       330       340
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+        350       360       370       380       390       400
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+        410       420       430       440       450       460
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+        470       480       490       500       510       520
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+        530       540       550       560       570       580
+
+>>EM_EST:EX882987 EX882987.1 CcLXCa39h07n1 ECC Cyprinus carpio
+cDNA clone 39h07 5' LD, mRNA sequence. (611 nt)
+ initn: 2133 init1: 2133 opt: 2133  Z-score: 2267.4  bits: 429.1 E(206115194): 6.9e-116
+banded Smith-Waterman score: 2133; 99.3% identity (99.3% similar) in 432 nt overlap (1-432:84-515)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCAGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+            60        70        80        90       100       110
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+           120       130       140       150       160       170
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+           180       190       200       210       220       230
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+           240       250       260       270       280       290
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+           300       310       320       330       340       350
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+           360       370       380       390       400       410
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+           420       430       440       450       460       470
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+           480       490       500       510       520       530
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+           540       550       560       570       580       590
+
+>>EM_EST:EX882595 EX882595.1 CcLXCa38e14n1 ECC Cyprinus carpio
+cDNA clone 38e14 5' LD, mRNA sequence. (622 nt)
+ initn: 2133 init1: 2133 opt: 2133  Z-score: 2267.2  bits: 429.1 E(206115194): 6.9e-116
+banded Smith-Waterman score: 2133; 99.3% identity (99.3% similar) in 432 nt overlap (1-432:80-511)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCAGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+      50        60        70        80        90       100
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+     110       120       130       140       150       160
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+     170       180       190       200       210       220
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+     230       240       250       260       270       280
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+     290       300       310       320       330       340
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+     350       360       370       380       390       400
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+     410       420       430       440       450       460
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+     470       480       490       500       510       520
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+     530       540       550       560       570       580
+
+>>EM_EST:EX882689 EX882689.1 CcLXCa38j03n1 ECC Cyprinus carpio
+cDNA clone 38j03 5' LD, mRNA sequence. (634 nt)
+ initn: 2133 init1: 2133 opt: 2133  Z-score: 2267.0  bits: 429.1 E(206115194): 7e-116
+banded Smith-Waterman score: 2133; 99.3% identity (99.3% similar) in 432 nt overlap (1-432:107-538)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCAGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+         80        90       100       110       120       130
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+        140       150       160       170       180       190
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+        200       210       220       230       240       250
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+        260       270       280       290       300       310
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+        320       330       340       350       360       370
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+        380       390       400       410       420       430
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+        440       450       460       470       480       490
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+        500       510       520       530       540       550
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+        560       570       580       590       600       610
+
+>>EM_EST:EX881001 EX881001.1 CcLXBa33l03n1 ECB Cyprinus carpio
+cDNA clone 33l03 5' LD, mRNA sequence. (640 nt)
+ initn: 2133 init1: 2133 opt: 2133  Z-score: 2266.9  bits: 429.1 E(206115194): 7e-116
+banded Smith-Waterman score: 2133; 99.3% identity (99.3% similar) in 432 nt overlap (1-432:113-544)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCAGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+             90       100       110       120       130       140
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+            150       160       170       180       190       200
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+            210       220       230       240       250       260
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+            270       280       290       300       310       320
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+            330       340       350       360       370       380
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+            390       400       410       420       430       440
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+            450       460       470       480       490       500
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+            510       520       530       540       550       560
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+            570       580       590       600       610       620
+
+>>EM_EST:EX882935 EX882935.1 CcLXCa39e18n1 ECC Cyprinus carpio
+cDNA clone 39e18 5' LD, mRNA sequence. (648 nt)
+ initn: 2133 init1: 2133 opt: 2133  Z-score: 2266.8  bits: 429.1 E(206115194): 7e-116
+banded Smith-Waterman score: 2133; 99.3% identity (99.3% similar) in 432 nt overlap (1-432:125-556)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCAGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+          100       110       120       130       140       150
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+          160       170       180       190       200       210
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+          220       230       240       250       260       270
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+          280       290       300       310       320       330
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+          340       350       360       370       380       390
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+          400       410       420       430       440       450
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+          460       470       480       490       500       510
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+          520       530       540       550       560       570
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+          580       590       600       610       620       630
+
+>>EM_EST:EX886030 EX886030.1 CcLXBa33g15n1 ECB Cyprinus carpio
+cDNA clone 33g15 5' LD, mRNA sequence. (688 nt)
+ initn: 2133 init1: 2133 opt: 2133  Z-score: 2266.1  bits: 429.1 E(206115194): 7.2e-116
+banded Smith-Waterman score: 2133; 99.3% identity (99.3% similar) in 432 nt overlap (1-432:108-539)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCAGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+        80        90       100       110       120       130
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       140       150       160       170       180       190
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+       200       210       220       230       240       250
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+       260       270       280       290       300       310
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       320       330       340       350       360       370
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       380       390       400       410       420       430
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       440       450       460       470       480       490
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+       500       510       520       530       540       550
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAGATTTCTC
+       560       570       580       590       600       610
+
+>>EM_EST:EX882335 EX882335.1 CcLXCa37i06n1 ECC Cyprinus carpio
+cDNA clone 37i06 5' LD, mRNA sequence. (879 nt)
+ initn: 2133 init1: 2133 opt: 2133  Z-score: 2263.6  bits: 429.0 E(206115194): 7.8e-116
+banded Smith-Waterman score: 2133; 99.3% identity (99.3% similar) in 432 nt overlap (1-432:82-513)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCAGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+              60        70        80        90       100       110
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+             120       130       140       150       160       170
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+             180       190       200       210       220       230
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+             240       250       260       270       280       290
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+             300       310       320       330       340       350
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+             360       370       380       390       400       410
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+             420       430       440       450       460       470
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+             480       490       500       510       520       530
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+             540       550       560       570       580       590
+
+>>EM_EST:EX881385 EX881385.1 CcLXBa34m20n1 ECB Cyprinus carpio
+cDNA clone 34m20 5' LD, mRNA sequence. (608 nt)
+ initn: 2128 init1: 2128 opt: 2128  Z-score: 2262.1  bits: 428.1 E(206115194): 1.4e-115
+banded Smith-Waterman score: 2128; 99.3% identity (99.3% similar) in 431 nt overlap (2-432:78-508)
+
+                                            10        20        30
+ENA|BA                              ATGAGTCTCTCTGATAAGGACAAGGCTGCTG
+                                     ::::::::::::::::::::::::::::::
+EM_EST ATCTAACTTGAGAAAAAGAAGACGCAGCATTGAGTCTCTCTGATAAGGACAAGGCTGCTG
+        50        60        70        80        90       100
+
+              40        50        60        70        80        90
+ENA|BA TGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTCG
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTCG
+       110       120       130       140       150       160
+
+             100       110       120       130       140       150
+ENA|BA GCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTGA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::: ::::::::
+EM_EST GCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTGA
+       170       180       190       200       210       220
+
+             160       170       180       190       200       210
+ENA|BA GCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGATG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: : :::::
+EM_EST GCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGATG
+       230       240       250       260       270       280
+
+             220       230       240       250       260       270
+ENA|BA CCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST CCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCTT
+       290       300       310       320       330       340
+
+             280       290       300       310       320       330
+ENA|BA CCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTCA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST CCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTCA
+       350       360       370       380       390       400
+
+             340       350       360       370       380       390
+ENA|BA TCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTTT
+       410       420       430       440       450       460
+
+             400       410       420       430
+ENA|BA TCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       :::::::::::::::::::::::::::::::::::::::::
+EM_EST TCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCAT
+       470       480       490       500       510       520
+
+EM_EST ACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTCA
+       530       540       550       560       570       580
+
+>>EM_EST:EX882444 EX882444.1 CcLXCa37n04n1 ECC Cyprinus carpio
+cDNA clone 37n04 5' LD, mRNA sequence. (625 nt)
+ initn: 2124 init1: 2124 opt: 2124  Z-score: 2257.5  bits: 427.3 E(206115194): 2.4e-115
+banded Smith-Waterman score: 2124; 99.1% identity (99.1% similar) in 432 nt overlap (1-432:80-511)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCAGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+      50        60        70        80        90       100
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+     110       120       130       140       150       160
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+     170       180       190       200       210       220
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+     230       240       250       260       270       280
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+     290       300       310       320       330       340
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+     350       360       370       380       390       400
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+        :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GTCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+     410       420       430       440       450       460
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+     470       480       490       500       510       520
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAATATTTCTC
+     530       540       550       560       570       580
+
+>>EM_EST:EX882209 EX882209.1 CcLXCa37c08n1 ECC Cyprinus carpio
+cDNA clone 37c08 5' LD, mRNA sequence. (640 nt)
+ initn: 2124 init1: 2124 opt: 2124  Z-score: 2257.3  bits: 427.3 E(206115194): 2.4e-115
+banded Smith-Waterman score: 2124; 99.1% identity (99.1% similar) in 432 nt overlap (1-432:79-510)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCAGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+       50        60        70        80        90       100
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+      110       120       130       140       150       160
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+      170       180       190       200       210       220
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+      230       240       250       260       270       280
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+      290       300       310       320       330       340
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+      350       360       370       380       390       400
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::::::::::::::: ::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTTCCCTGGAGACTACCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+      410       420       430       440       450       460
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+      470       480       490       500       510       520
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+      530       540       550       560       570       580
+
+>>EM_EST:EX882325 EX882325.1 CcLXCa37h19n1 ECC Cyprinus carpio
+cDNA clone 37h19 5' LD, mRNA sequence. (640 nt)
+ initn: 2124 init1: 2124 opt: 2124  Z-score: 2257.3  bits: 427.3 E(206115194): 2.4e-115
+banded Smith-Waterman score: 2124; 99.1% identity (99.1% similar) in 432 nt overlap (1-432:78-509)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCAGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+        50        60        70        80        90       100
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       ::::::::::::::::::::::::::: ::::::::::::::::::::::::::::::::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCTCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       110       120       130       140       150       160
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+       170       180       190       200       210       220
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+       230       240       250       260       270       280
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       290       300       310       320       330       340
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       350       360       370       380       390       400
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       410       420       430       440       450       460
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+       470       480       490       500       510       520
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+       530       540       550       560       570       580
+
+>>EM_EST:EX882667 EX882667.1 CcLXCa38h24n1 ECC Cyprinus carpio
+cDNA clone 38h24 5' LD, mRNA sequence. (647 nt)
+ initn: 2124 init1: 2124 opt: 2124  Z-score: 2257.2  bits: 427.3 E(206115194): 2.4e-115
+banded Smith-Waterman score: 2124; 99.1% identity (99.1% similar) in 432 nt overlap (1-432:84-515)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCAGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+            60        70        80        90       100       110
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+           120       130       140       150       160       170
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+           180       190       200       210       220       230
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+           240       250       260       270       280       290
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+           300       310       320       330       340       350
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       ::::::::: ::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TCCAAGCTGTGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+           360       370       380       390       400       410
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+           420       430       440       450       460       470
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+           480       490       500       510       520       530
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGCCTGAATAAAATTTCTC
+           540       550       560       570       580       590
+
+>>EM_EST:EX880976 EX880976.1 CcLXBa33k02n1 ECB Cyprinus carpio
+cDNA clone 33k02 5' LD, mRNA sequence. (649 nt)
+ initn: 2124 init1: 2124 opt: 2124  Z-score: 2257.1  bits: 427.3 E(206115194): 2.4e-115
+banded Smith-Waterman score: 2124; 99.1% identity (99.1% similar) in 432 nt overlap (1-432:122-553)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCAGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+             100       110       120       130       140       150
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+             160       170       180       190       200       210
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :: ::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGGCCTG
+             220       230       240       250       260       270
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+             280       290       300       310       320       330
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+             340       350       360       370       380       390
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+             400       410       420       430       440       450
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+             460       470       480       490       500       510
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+             520       530       540       550       560       570
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+             580       590       600       610       620       630
+
+>>EM_EST:CF661656 CF661656.2 CcLX13a39b06f1 Carp mixed tissue
+library 6 Cyprinus carpio cDNA clone 39b06 5' similar to
+swissprot P02016, mRNA sequence. (528 nt)
+ initn: 2115 init1: 2115 opt: 2115  Z-score: 2249.7  bits: 425.6 E(206115194): 7.7e-115
+banded Smith-Waterman score: 2115; 98.8% identity (98.8% similar) in 432 nt overlap (1-432:58-489)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCAGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+        30        40        50        60        70        80
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       : ::::::::::::::::::::::::: ::::::::::::::::::::::::::::::::
+EM_EST GCGAAAGCCCTATGGGCTAAGATCAGCTCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+        90       100       110       120       130       140
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+       150       160       170       180       190       200
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+       210       220       230       240       250       260
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       270       280       290       300       310       320
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       330       340       350       360       370       380
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       390       400       410       420       430       440
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+       450       460       470       480       490       500
+
+EM_EST TACGCGACACCGTGCGGCACT
+       510       520
+
+>>EM_EST:EX882979 EX882979.1 CcLXCa39g21n1 ECC Cyprinus carpio
+cDNA clone 39g21 5' LD, mRNA sequence. (591 nt)
+ initn: 2115 init1: 2115 opt: 2115  Z-score: 2248.5  bits: 425.6 E(206115194): 8e-115
+banded Smith-Waterman score: 2115; 98.8% identity (98.8% similar) in 432 nt overlap (1-432:79-510)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCAGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+       50        60        70        80        90       100
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+      110       120       130       140       150       160
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::: : :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGAGCTGACCTG
+      170       180       190       200       210       220
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+      230       240       250       260       270       280
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::: ::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCGTGCT
+      290       300       310       320       330       340
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+      350       360       370       380       390       400
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+      410       420       430       440       450       460
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+      470       480       490       500       510       520
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+      530       540       550       560       570       580
+
+>>EM_EST:CF662214 CF662214.2 CcLX13a40p24f1 Carp mixed tissue
+library 6 Cyprinus carpio cDNA clone 40p24 5' similar to
+swissprot P02016, mRNA sequence. (595 nt)
+ initn: 2115 init1: 2115 opt: 2115  Z-score: 2248.5  bits: 425.6 E(206115194): 8e-115
+banded Smith-Waterman score: 2115; 98.8% identity (98.8% similar) in 432 nt overlap (1-432:63-494)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCAGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+             40        50        60        70        80        90
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       ::::::::::::::::::::::::::: ::::::::::::::::::::::::::::::::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCTCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+            100       110       120       130       140       150
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::: ::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCGACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+            160       170       180       190       200       210
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+            220       230       240       250       260       270
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+            280       290       300       310       320       330
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+            340       350       360       370       380       390
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+            400       410       420       430       440       450
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+            460       470       480       490       500       510
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+            520       530       540       550       560       570
+
+>>EM_EST:EX882932 EX882932.1 CcLXCa39e14n1 ECC Cyprinus carpio
+cDNA clone 39e14 5' LD, mRNA sequence. (601 nt)
+ initn: 2115 init1: 2115 opt: 2115  Z-score: 2248.4  bits: 425.6 E(206115194): 8e-115
+banded Smith-Waterman score: 2115; 98.8% identity (98.8% similar) in 432 nt overlap (1-432:78-509)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCAGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+        50        60        70        80        90       100
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       110       120       130       140       150       160
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+       170       180       190       200       210       220
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::: ::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCCGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+       230       240       250       260       270       280
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       290       300       310       320       330       340
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       350       360       370       380       390       400
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::: ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCAGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       410       420       430       440       450       460
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+       470       480       490       500       510       520
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+       530       540       550       560       570       580
+
+>>EM_EST:EX882532 EX882532.1 CcLXCa38b06n1 ECC Cyprinus carpio
+cDNA clone 38b06 5' LD, mRNA sequence. (655 nt)
+ initn: 2115 init1: 2115 opt: 2115  Z-score: 2247.5  bits: 425.5 E(206115194): 8.3e-115
+banded Smith-Waterman score: 2115; 98.8% identity (98.8% similar) in 432 nt overlap (1-432:124-555)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCGGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+           100       110       120       130       140       150
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       :::::::::::::::::::::::::::::::::::::::::::::::::::::::: :::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCCCTC
+           160       170       180       190       200       210
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       ::::::::::::::::::::::: :::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCACAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+           220       230       240       250       260       270
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+           280       290       300       310       320       330
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+           340       350       360       370       380       390
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+           400       410       420       430       440       450
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+           460       470       480       490       500       510
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+           520       530       540       550       560       570
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+           580       590       600       610       620       630
+
+>>EM_EST:EX881053 EX881053.1 CcLXBa33n18n1 ECB Cyprinus carpio
+cDNA clone 33n18 5' LD, mRNA sequence. (667 nt)
+ initn: 2115 init1: 2115 opt: 2115  Z-score: 2247.3  bits: 425.5 E(206115194): 8.3e-115
+banded Smith-Waterman score: 2115; 98.8% identity (98.8% similar) in 432 nt overlap (1-432:132-563)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCAGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+             110       120       130       140       150       160
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       ::::::::::::::::::::::::::: ::::::::::::::::::::::::::::::::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCTCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+             170       180       190       200       210       220
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       ::::::::: :::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGTTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+             230       240       250       260       270       280
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+             290       300       310       320       330       340
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+             350       360       370       380       390       400
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+             410       420       430       440       450       460
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+             470       480       490       500       510       520
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+             530       540       550       560       570       580
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+             590       600       610       620       630       640
+
+>>EM_EST:EX882837 EX882837.1 CcLXCa39a04n1 ECC Cyprinus carpio
+cDNA clone 39a04 5' LD, mRNA sequence. (896 nt)
+ initn: 2115 init1: 2115 opt: 2115  Z-score: 2244.2  bits: 425.4 E(206115194): 9.2e-115
+banded Smith-Waterman score: 2115; 98.8% identity (98.8% similar) in 432 nt overlap (1-432:124-555)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCAGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+           100       110       120       130       140       150
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+           160       170       180       190       200       210
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+           220       230       240       250       260       270
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+           280       290       300       310       320       330
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+           340       350       360       370       380       390
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       ::::::::::::::::::::::::::::::::::::::::::::::: ::::::::::::
+EM_EST TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAACGTCATCGTGGTC
+           400       410       420       430       440       450
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       :::::::::::::::::::::::::::::::: :::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCGGAGGTTCACATGTCAGTTGACAAGTTT
+           460       470       480       490       500       510
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+           520       530       540       550       560       570
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+           580       590       600       610       620       630
+
+>>EM_EST:EX879922 EX879922.1 CcLXAa30j04n1 ECA Cyprinus carpio
+cDNA clone 30j04 5' LD, mRNA sequence. (993 nt)
+ initn: 2080 init1: 2080 opt: 2101  Z-score: 2228.2  bits: 422.6 E(206115194): 6.4e-114
+banded Smith-Waterman score: 2101; 98.6% identity (98.6% similar) in 431 nt overlap (2-432:94-524)
+
+                                            10        20        30
+ENA|BA                              ATGAGTCTCTCTGATAAGGACAAGGCTGCTG
+                                     ::::: ::::::::::::::::::::::::
+EM_EST GTCTATCTTGAGATAAAGAAGACGCAGCCTTGAGTGTCTCTGATAAGGACAAGGCTGCTG
+            70        80        90       100       110       120
+
+              40        50        60        70        80        90
+ENA|BA TGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTCG
+       :::::::::::::: :::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TGAAAGCCCTATGGTCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTCG
+           130       140       150       160       170       180
+
+             100       110       120       130       140       150
+ENA|BA GCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTGA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::: ::::::::
+EM_EST GCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTGA
+           190       200       210       220       230       240
+
+             160       170       180       190       200       210
+ENA|BA GCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGATG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: : :::::
+EM_EST GCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGATG
+           250       260       270       280       290       300
+
+             220       230       240       250       260       270
+ENA|BA CCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCTT
+       ::::::::::: ::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST CCGTTTCAAAATTAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCTT
+           310       320       330       340       350       360
+
+             280       290       300       310       320       330
+ENA|BA CCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTCA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST CCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTCA
+           370       380       390       400       410       420
+
+             340       350       360       370       380       390
+ENA|BA TCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTTT
+           430       440       450       460       470       480
+
+             400       410       420       430
+ENA|BA TCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       :::::::::::::::::::::::::::::::::::::::::
+EM_EST TCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCAT
+           490       500       510       520       530       540
+
+EM_EST ACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTCA
+           550       560       570       580       590       600
+
+>>EM_EST:AU183354 AU183354.1 Cyprinus carpio cDNA clone: H12,
+expressed in kidney stimulated by lipo-polysaccharide and
+concanavalin-A. (530 nt)
+ initn: 2097 init1: 2097 opt: 2097  Z-score: 2230.5  bits: 422.1 E(206115194): 9e-114
+banded Smith-Waterman score: 2097; 98.4% identity (98.4% similar) in 432 nt overlap (1-432:27-458)
+
+                                         10        20        30
+ENA|BA                           ATGAGTCTCTCTGATAAGGACAAGGCTGCTGTGA
+                                 ::::::::::::::::::::::::::::::::::
+EM_EST CCACGCGTCCGAAACAAGACGCAGCAATGAGTCTCTCTGATAAGGACAAGGCTGCTGTGA
+               10        20        30        40        50        60
+
+           40        50        60        70        80        90
+ENA|BA AAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTCGGCA
+       ::: ::: ::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST AAGGCCTTTGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTCGGCA
+               70        80        90       100       110       120
+
+          100       110       120       130       140       150
+ENA|BA GAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTGAGCC
+       :::::::::::::::::::::::::::::::::::::::::::::::: :::::::::::
+EM_EST GAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTGAGCC
+              130       140       150       160       170       180
+
+          160       170       180       190       200       210
+ENA|BA CTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGATGCCG
+       ::::::::::::::::::::::::::::::::::::::::::::::::: : ::::::::
+EM_EST CTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGATGCCG
+              190       200       210       220       230       240
+
+          220       230       240       250       260       270
+ENA|BA TTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCTTCCA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::: ::
+EM_EST TTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCTTTCA
+              250       260       270       280       290       300
+
+          280       290       300       310       320       330
+ENA|BA AGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTCATCG
+       :::::::: :::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST AGCTGCGTATTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTCATCG
+              310       320       330       340       350       360
+
+          340       350       360       370       380       390
+ENA|BA GCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTTTTCC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTTTTCC
+              370       380       390       400       410       420
+
+          400       410       420       430
+ENA|BA AGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::
+EM_EST AGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCATACG
+              430       440       450       460       470       480
+
+EM_EST CGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAA
+              490       500       510       520       530
+
+>>EM_EST:AU183370 AU183370.1 Cyprinus carpio cDNA clone: H28,
+expressed in kidney stimulated by lipo-polysaccharide and
+concanavalin-A. (590 nt)
+ initn: 2097 init1: 2097 opt: 2097  Z-score: 2229.4  bits: 422.0 E(206115194): 9.3e-114
+banded Smith-Waterman score: 2097; 98.4% identity (98.4% similar) in 432 nt overlap (1-432:40-471)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST CCGCTAACTTGAGAAAAACAAGACGCAGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+      10        20        30        40        50        60
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       ::::::: ::: ::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GTGAAAGGCCTTTGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+      70        80        90       100       110       120
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+     130       140       150       160       170       180
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+     190       200       210       220       230       240
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+     250       260       270       280       290       300
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       : :::::::::: :::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCAAGCTGCGTATTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+     310       320       330       340       350       360
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+     370       380       390       400       410       420
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+     430       440       450       460       470       480
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+     490       500       510       520       530       540
+
+>>EM_EST:AU301019 AU301019.1 Cyprinus carpio cDNA clone:
+HKI-42, expressed in kidney stimulated by
+lipo-polysaccharide and concanavalin-A. (606 nt)
+ initn: 2097 init1: 2097 opt: 2097  Z-score: 2229.1  bits: 422.0 E(206115194): 9.4e-114
+banded Smith-Waterman score: 2097; 98.4% identity (98.4% similar) in 432 nt overlap (1-432:50-481)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST GTCCGAACTTGAGAAAAACAAGACGCAGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+      20        30        40        50        60        70
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       ::::::: ::: ::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GTGAAAGGCCTTTGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+      80        90       100       110       120       130
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+     140       150       160       170       180       190
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+     200       210       220       230       240       250
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+     260       270       280       290       300       310
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       : :::::::::: :::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCAAGCTGCGTATTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+     320       330       340       350       360       370
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+     380       390       400       410       420       430
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+     440       450       460       470       480       490
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+     500       510       520       530       540       550
+
+>>EM_EST:EX880914 EX880914.1 CcLXBa33h09n1 ECB Cyprinus carpio
+cDNA clone 33h09 5' LD, mRNA sequence. (718 nt)
+ initn: 2097 init1: 2097 opt: 2097  Z-score: 2227.3  bits: 421.9 E(206115194): 1e-113
+banded Smith-Waterman score: 2097; 97.9% identity (97.9% similar) in 432 nt overlap (1-432:197-628)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     :::::: : : :::::::::::::: ::::
+EM_EST AATNTAANTTGAGAAGAAGAAGAAGNAGNAATGAGTNTNTNTGATAAGGACAAGGNTGCT
+        170       180       190       200       210       220
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       :::::::  :::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GTGAAAGNNCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+        230       240       250       260       270       280
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+        290       300       310       320       330       340
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+        350       360       370       380       390       400
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+        410       420       430       440       450       460
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+        470       480       490       500       510       520
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+        530       540       550       560       570       580
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+        590       600       610       620       630       640
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+        650       660       670       680       690       700
+
+>>EM_EST:EX882206 EX882206.1 CcLXCa37c04n1 ECC Cyprinus carpio
+cDNA clone 37c04 5' LD, mRNA sequence. (595 nt)
+ initn: 2088 init1: 1925 opt: 2092  Z-score: 2223.9  bits: 421.1 E(206115194): 1.9e-113
+banded Smith-Waterman score: 2092; 98.6% identity (98.6% similar) in 432 nt overlap (1-432:71-501)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCAGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+               50        60        70        80        90       100
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+              110       120       130       140       150       160
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+              170       180       190       200       210       220
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::: ::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGCGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+              230       240       250       260       270       280
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+              290       300       310       320       330       340
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       :::::::::::::: :::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TCCAAGCTGCGTGTCGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+              350       360       370       380       390       400
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+              410       420       430       440       450       460
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       :::: :::::::::::::::::::::::::::::::::::::
+EM_EST TTCC-GAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+               470       480       490       500       510
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCNAACTCAGTGTGATGTCTGAATAAAATTCTCN
+     520       530       540       550       560       570
+
+>>EM_EST:CA970244 CA970244.2 CcLL03a12e18f3 Carp liver library
+3 Cyprinus carpio cDNA clone 12e18 5' similar to swissprot
+P02016, mRNA sequence. (521 nt)
+ initn: 2088 init1: 2088 opt: 2088  Z-score: 2221.1  bits: 420.3 E(206115194): 3.1e-113
+banded Smith-Waterman score: 2088; 98.1% identity (98.1% similar) in 432 nt overlap (1-432:47-478)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTATCTTGAGAAAAAGAAGACGCGGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+         20        30        40        50        60        70
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       :::::::::::::::::::::::::::::::::::::::::::::::::::::::: :::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCCCTC
+         80        90       100       110       120       130
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+        140       150       160       170       180       190
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+        200       210       220       230       240       250
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::  ::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCTGCCCTGAGCGAACTTCATGCT
+        260       270       280       290       300       310
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       : ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+        320       330       340       350       360       370
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::: ::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTACCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+        380       390       400       410       420       430
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+        440       450       460       470       480       490
+
+EM_EST TACGCGACACTGTGCGGCACTCCTG
+        500       510       520
+
+>>EM_EST:CF662000 CF662000.2 CcLX13a40d18f1 Carp mixed tissue
+library 6 Cyprinus carpio cDNA clone 40d18 5' similar to
+swissprot P02016, mRNA sequence. (573 nt)
+ initn: 2088 init1: 2088 opt: 2088  Z-score: 2220.1  bits: 420.3 E(206115194): 3.2e-113
+banded Smith-Waterman score: 2088; 98.1% identity (98.1% similar) in 432 nt overlap (1-432:46-477)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCAGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+          20        30        40        50        60        70
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       ::::::: ::: ::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GTGAAAGGCCTTTGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+          80        90       100       110       120       130
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+         140       150       160       170       180       190
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       :::::::::::::::::::::::::::::::::::: ::::::: :::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGATTATCATAGGTGCAGTCGGCGAT
+         200       210       220       230       240       250
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+         260       270       280       290       300       310
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       : ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+         320       330       340       350       360       370
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+         380       390       400       410       420       430
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+         440       450       460       470       480       490
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+         500       510       520       530       540       550
+
+>>EM_EST:EX825026 EX825026.1 CcLXMa64b24n1 Montse common carp
+adult head and kidney Cyprinus carpio cDNA clone 64b24 5'
+LD, mRNA sequence. (584 nt)
+ initn: 2088 init1: 2088 opt: 2088  Z-score: 2219.9  bits: 420.3 E(206115194): 3.2e-113
+banded Smith-Waterman score: 2088; 98.1% identity (98.1% similar) in 432 nt overlap (1-432:57-488)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCGGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+         30        40        50        60        70        80
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       :::::::::::::::::::::::::::::::::::::::::::::::::::::::: :::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCCCTC
+         90       100       110       120       130       140
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+        150       160       170       180       190       200
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+        210       220       230       240       250       260
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::  ::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCTGCCCTGAGCGAACTTCATGCT
+        270       280       290       300       310       320
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       : ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+        330       340       350       360       370       380
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::: ::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTACCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+        390       400       410       420       430       440
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+        450       460       470       480       490       500
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+        510       520       530       540       550       560
+
+>>EM_EST:EX880672 EX880672.1 CcLXBa32l09n1 ECB Cyprinus carpio
+cDNA clone 32l09 5' LD, mRNA sequence. (585 nt)
+ initn: 2088 init1: 2088 opt: 2088  Z-score: 2219.9  bits: 420.3 E(206115194): 3.2e-113
+banded Smith-Waterman score: 2088; 98.1% identity (98.1% similar) in 432 nt overlap (1-432:66-497)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCGGCGATGAGTCTCTCTGATAAGGACAAGGCTGCT
+          40        50        60        70        80        90
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       :::::::::::::::::::::::::::::::::::::::::::::::::::::::: :::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCCCTC
+         100       110       120       130       140       150
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+         160       170       180       190       200       210
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+         220       230       240       250       260       270
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::  ::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCTGCCCTGAGCGAACTTCATGCT
+         280       290       300       310       320       330
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       : ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+         340       350       360       370       380       390
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::: ::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTACCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+         400       410       420       430       440       450
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+         460       470       480       490       500       510
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+         520       530       540       550       560       570
+
+>>EM_EST:EX881712 EX881712.1 CcLXBa35l16n1 ECB Cyprinus carpio
+cDNA clone 35l16 5' LD, mRNA sequence. (587 nt)
+ initn: 2088 init1: 2088 opt: 2088  Z-score: 2219.8  bits: 420.3 E(206115194): 3.2e-113
+banded Smith-Waterman score: 2088; 98.1% identity (98.1% similar) in 432 nt overlap (1-432:60-491)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCGGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+      30        40        50        60        70        80
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       :::::::::::::::::::::::::::::::::::::::::::::::::::::::: :::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCCCTC
+      90       100       110       120       130       140
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+     150       160       170       180       190       200
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+     210       220       230       240       250       260
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::  ::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCTGCCCTGAGCGAACTTCATGCT
+     270       280       290       300       310       320
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       : ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+     330       340       350       360       370       380
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::: ::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTACCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+     390       400       410       420       430       440
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+     450       460       470       480       490       500
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+     510       520       530       540       550       560
+
+>>EM_EST:EX881718 EX881718.1 CcLXBa35l22n1 ECB Cyprinus carpio
+cDNA clone 35l22 5' LD, mRNA sequence. (591 nt)
+ initn: 2088 init1: 2088 opt: 2088  Z-score: 2219.7  bits: 420.3 E(206115194): 3.2e-113
+banded Smith-Waterman score: 2088; 98.1% identity (98.1% similar) in 432 nt overlap (1-432:72-503)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCGGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+              50        60        70        80        90       100
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       :::::::::::::::::::::::::::::::::::::::::::::::::::::::: :::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCCCTC
+             110       120       130       140       150       160
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+             170       180       190       200       210       220
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+             230       240       250       260       270       280
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::  ::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCTGCCCTGAGCGAACTTCATGCT
+             290       300       310       320       330       340
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       : ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+             350       360       370       380       390       400
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::: ::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTACCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+             410       420       430       440       450       460
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+             470       480       490       500       510       520
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+             530       540       550       560       570       580
+
+>>EM_EST:EX882757 EX882757.1 CcLXCa38m10n1 ECC Cyprinus carpio
+cDNA clone 38m10 5' LD, mRNA sequence. (594 nt)
+ initn: 2088 init1: 2088 opt: 2088  Z-score: 2219.7  bits: 420.3 E(206115194): 3.2e-113
+banded Smith-Waterman score: 2088; 98.1% identity (98.1% similar) in 432 nt overlap (1-432:82-513)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCGGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+              60        70        80        90       100       110
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       :::::::::::::::::::::::::::::::::::::::::::::::::::::::: :::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCCCTC
+             120       130       140       150       160       170
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+             180       190       200       210       220       230
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+             240       250       260       270       280       290
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::  ::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCTGCCCTGAGCGAACTTCATGCT
+             300       310       320       330       340       350
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       : ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+             360       370       380       390       400       410
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::: ::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTACCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+             420       430       440       450       460       470
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+             480       490       500       510       520       530
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+             540       550       560       570       580       590
+
+>>EM_EST:EX882017 EX882017.1 CcLXCa36j14n1 ECC Cyprinus carpio
+cDNA clone 36j14 5' LD, mRNA sequence. (595 nt)
+ initn: 2088 init1: 2088 opt: 2088  Z-score: 2219.7  bits: 420.3 E(206115194): 3.2e-113
+banded Smith-Waterman score: 2088; 98.1% identity (98.1% similar) in 432 nt overlap (1-432:66-497)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCGGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+          40        50        60        70        80        90
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       :::::::::::::::::::::::::::::::::::::::::::::::::::::::: :::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCCCTC
+         100       110       120       130       140       150
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+         160       170       180       190       200       210
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+         220       230       240       250       260       270
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       :::::::::::::::::::::::::::::::: :::::  ::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGCCTGGCTGCCCTGAGCGAACTTCATGCT
+         280       290       300       310       320       330
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       : ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+         340       350       360       370       380       390
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+         400       410       420       430       440       450
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+         460       470       480       490       500       510
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+         520       530       540       550       560       570
+
+>>EM_EST:EX881374 EX881374.1 CcLXBa34m09n1 ECB Cyprinus carpio
+cDNA clone 34m09 5' LD, mRNA sequence. (598 nt)
+ initn: 2088 init1: 2088 opt: 2088  Z-score: 2219.6  bits: 420.3 E(206115194): 3.2e-113
+banded Smith-Waterman score: 2088; 98.1% identity (98.1% similar) in 432 nt overlap (1-432:71-502)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCGGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+               50        60        70        80        90       100
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       :::::::::::::::::::::::::::::::::::::::::::::::::::::::: :::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCCCTC
+              110       120       130       140       150       160
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+              170       180       190       200       210       220
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+              230       240       250       260       270       280
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::  ::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCTGCCCTGAGCGAACTTCATGCT
+              290       300       310       320       330       340
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       : ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+              350       360       370       380       390       400
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::: ::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTACCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+              410       420       430       440       450       460
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+              470       480       490       500       510       520
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+              530       540       550       560       570       580
+
+>>EM_EST:EX881401 EX881401.1 CcLXBa34n13n1 ECB Cyprinus carpio
+cDNA clone 34n13 5' LD, mRNA sequence. (599 nt)
+ initn: 2088 init1: 2088 opt: 2088  Z-score: 2219.6  bits: 420.3 E(206115194): 3.2e-113
+banded Smith-Waterman score: 2088; 98.1% identity (98.1% similar) in 432 nt overlap (1-432:80-511)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCGGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+      50        60        70        80        90       100
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       :::::::::::::::::::::::::::::::::::::::::::::::::::::::: :::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCCCTC
+     110       120       130       140       150       160
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+     170       180       190       200       210       220
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+     230       240       250       260       270       280
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::  ::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCTGCCCTGAGCGAACTTCATGCT
+     290       300       310       320       330       340
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       : ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+     350       360       370       380       390       400
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::: ::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTACCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+     410       420       430       440       450       460
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+     470       480       490       500       510       520
+
+EM_EST TACGCGACACTGTGCGGCACTCCCGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+     530       540       550       560       570       580
+
+>>EM_EST:EX881904 EX881904.1 CcLXCa36e08n1 ECC Cyprinus carpio
+cDNA clone 36e08 5' LD, mRNA sequence. (599 nt)
+ initn: 2088 init1: 2088 opt: 2088  Z-score: 2219.6  bits: 420.3 E(206115194): 3.2e-113
+banded Smith-Waterman score: 2088; 98.1% identity (98.1% similar) in 432 nt overlap (1-432:72-503)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCGGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+              50        60        70        80        90       100
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       :::::::::::::::::::::::::::::::::::::::::::::::::::::::: :::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCCCTC
+             110       120       130       140       150       160
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+             170       180       190       200       210       220
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+             230       240       250       260       270       280
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::  ::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCTGCCCTGAGCGAACTTCATGCT
+             290       300       310       320       330       340
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       : ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+             350       360       370       380       390       400
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::: ::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTACCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+             410       420       430       440       450       460
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+             470       480       490       500       510       520
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+             530       540       550       560       570       580
+
+>>EM_EST:EX881591 EX881591.1 CcLXBa35g07n1 ECB Cyprinus carpio
+cDNA clone 35g07 5' LD, mRNA sequence. (600 nt)
+ initn: 2088 init1: 2088 opt: 2088  Z-score: 2219.6  bits: 420.3 E(206115194): 3.2e-113
+banded Smith-Waterman score: 2088; 98.1% identity (98.1% similar) in 432 nt overlap (1-432:73-504)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCGGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+             50        60        70        80        90       100
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       :::::::::::::::::::::::::::::::::::::::::::::::::::::::: :::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCCCTC
+            110       120       130       140       150       160
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+            170       180       190       200       210       220
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+            230       240       250       260       270       280
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::  ::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCTGCCCTGAGCGAACTTCATGCT
+            290       300       310       320       330       340
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       : ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+            350       360       370       380       390       400
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::: ::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTACCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+            410       420       430       440       450       460
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+            470       480       490       500       510       520
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+            530       540       550       560       570       580
+
+>>EM_EST:EX882473 EX882473.1 CcLXCa37o11n1 ECC Cyprinus carpio
+cDNA clone 37o11 5' LD, mRNA sequence. (601 nt)
+ initn: 2088 init1: 2088 opt: 2088  Z-score: 2219.6  bits: 420.3 E(206115194): 3.2e-113
+banded Smith-Waterman score: 2088; 98.1% identity (98.1% similar) in 432 nt overlap (1-432:76-507)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCGGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+          50        60        70        80        90       100
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       :::::::::::::::::::::::::::::::::::::::::::::::::::::::: :::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCCCTC
+         110       120       130       140       150       160
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+         170       180       190       200       210       220
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+         230       240       250       260       270       280
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::  ::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCTGCCCTGAGCGAACTTCATGCT
+         290       300       310       320       330       340
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       : ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+         350       360       370       380       390       400
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::: ::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTACCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+         410       420       430       440       450       460
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+         470       480       490       500       510       520
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTTCT
+         530       540       550       560       570       580
+
+>>EM_EST:EX881678 EX881678.1 CcLXBa35k03n1 ECB Cyprinus carpio
+cDNA clone 35k03 5' LD, mRNA sequence. (601 nt)
+ initn: 2088 init1: 2088 opt: 2088  Z-score: 2219.6  bits: 420.3 E(206115194): 3.2e-113
+banded Smith-Waterman score: 2088; 98.1% identity (98.1% similar) in 432 nt overlap (1-432:74-505)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST GATCTAACTTGAGAAAAAGAAGACGCGGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+            50        60        70        80        90       100
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       :::::::::::::::::::::::::::::::::::::::::::::::::::::::: :::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCCCTC
+           110       120       130       140       150       160
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+           170       180       190       200       210       220
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+           230       240       250       260       270       280
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::  ::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCTGCCCTGAGCGAACTTCATGCT
+           290       300       310       320       330       340
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       : ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+           350       360       370       380       390       400
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::: ::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTACCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+           410       420       430       440       450       460
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+           470       480       490       500       510       520
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+           530       540       550       560       570       580
+
+>>EM_EST:EX883060 EX883060.1 CcLXCa39k15n1 ECC Cyprinus carpio
+cDNA clone 39k15 5' LD, mRNA sequence. (601 nt)
+ initn: 2088 init1: 2088 opt: 2088  Z-score: 2219.6  bits: 420.3 E(206115194): 3.2e-113
+banded Smith-Waterman score: 2088; 98.1% identity (98.1% similar) in 432 nt overlap (1-432:78-509)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCCAACTTGAGAAAAAGAAGACGCGGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+        50        60        70        80        90       100
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       :::::::::::::::::::::::::::::::::::::::::::::::::::::::: :::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCCCTC
+       110       120       130       140       150       160
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+       170       180       190       200       210       220
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+       230       240       250       260       270       280
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::  ::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCTGCCCTGAGCGAACTTCATGCT
+       290       300       310       320       330       340
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       : ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       350       360       370       380       390       400
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::: ::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTACCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       410       420       430       440       450       460
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+       470       480       490       500       510       520
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+       530       540       550       560       570       580
+
+>>EM_EST:EX882361 EX882361.1 CcLXCa37j12n1 ECC Cyprinus carpio
+cDNA clone 37j12 5' LD, mRNA sequence. (601 nt)
+ initn: 2088 init1: 2088 opt: 2088  Z-score: 2219.6  bits: 420.3 E(206115194): 3.2e-113
+banded Smith-Waterman score: 2088; 98.1% identity (98.1% similar) in 432 nt overlap (1-432:81-512)
+
+                                             10        20        30
+ENA|BA                               ATGAGTCTCTCTGATAAGGACAAGGCTGCT
+                                     ::::::::::::::::::::::::::::::
+EM_EST AATCTAACTTGAGAAAAAGAAGACGCGGCAATGAGTCTCTCTGATAAGGACAAGGCTGCT
+               60        70        80        90       100       110
+
+               40        50        60        70        80        90
+ENA|BA GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCTCTC
+       :::::::::::::::::::::::::::::::::::::::::::::::::::::::: :::
+EM_EST GTGAAAGCCCTATGGGCTAAGATCAGCCCCAAAGCCGATGATATCGGCGCTGAAGCCCTC
+              120       130       140       150       160       170
+
+              100       110       120       130       140       150
+ENA|BA GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGATGACCTG
+       :::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::
+EM_EST GGCAGAATGCTGACCGTCTACCCTCAGACCAAGACCTACTTCGCTCACTGGGCTGACCTG
+              180       190       200       210       220       230
+
+              160       170       180       190       200       210
+ENA|BA AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTGGCCGAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::::: : ::::
+EM_EST AGCCCTGGGTCCGGTCCTGTGAAGAAGCATGGCAAGGTTATCATGGGTGCAGTCGGCGAT
+              240       250       260       270       280       290
+
+              220       230       240       250       260       270
+ENA|BA GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCCTCCCTGAGCGAACTTCATGCT
+       ::::::::::::::::::::::::::::::::::::::  ::::::::::::::::::::
+EM_EST GCCGTTTCAAAAATAGACGACCTTGTGGGAGGTCTGGCTGCCCTGAGCGAACTTCATGCT
+              300       310       320       330       340       350
+
+              280       290       300       310       320       330
+ENA|BA TCCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+       : ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCAAGCTGCGTGTTGACCCGGCCAACTTCAAGATCCTCGCACACAATGTCATCGTGGTC
+              360       370       380       390       400       410
+
+              340       350       360       370       380       390
+ENA|BA ATCGGCATGCTCTTCCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+       ::::::::::::: ::::::::::::::::::::::::::::::::::::::::::::::
+EM_EST ATCGGCATGCTCTACCCTGGAGACTTCCCCCCAGAGGTTCACATGTCAGTTGACAAGTTT
+              420       430       440       450       460       470
+
+              400       410       420       430
+ENA|BA TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAA
+       ::::::::::::::::::::::::::::::::::::::::::
+EM_EST TTCCAGAACTTGGCTCTGGCTCTCTCTGAGAAGTACCGCTAAATTTCCGGTGGGCATTCA
+              480       490       500       510       520       530
+
+EM_EST TACGCGACACTGTGCGGCACTCCTGACCAACTCAAGTGTGATGTCTGAATAAAATTTCTC
+              540       550       560       570       580       590
+
+
+
+432 residues in 1 query   sequences
+241444286068 residues in 205557721 library sequences
+ Tcomplib [36.3.7b Jun, 2015(preload9)] (8 proc in memory [7G])
+ start: Mon Jan 15 16:39:16 2018 done: Mon Jan 15 16:59:23 2018
+ Total Scan time: 6213.510 Total Display time:  0.770
+
+Function used was FASTA [36.3.7b Jun, 2015(preload9)]

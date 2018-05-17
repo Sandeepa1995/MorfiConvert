@@ -18,6 +18,8 @@
 //Predefined paths
 //**********************************************************************************************************************
 
+//!!!!!!!!!!!!!!!!!!!!Path will need to be changed - Some files are in the Tests subdirectory!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 //Path where existing library is built
 std::string prePath = "F:\\Achademic\\CS\\Semester 05\\Software Engineering Project\\untitled6\\cmake-build-debug\\bin\\";
 
