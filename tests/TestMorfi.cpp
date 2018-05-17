@@ -274,15 +274,19 @@ TEST(function_test, test_local_storage_wrongfile) {
 TEST(function_test, test_gene_complete) {
     morfiConvert::configLocal(datapath);
 
-    std::string expResult = "AGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMSXYQTPLFVWSVLITAVLLLLSLPVLATGITMLLXDRNLNTTFFXPXXGGDP";
-    std::string testval1 = morfiConvert::fullGene("ARO40711.1", "env_nr");
+    std::string expResult = "MTGQRIGYIRVSTFDQNPERQLEGVKVDRAFSDKASGKDVKRPQLEALISFARTGDTVVVHSMDRLARNLDDLRRIVQTLTQRGVHIEFVKEHLSFTGEDSPMANLMLSVMGAFAEFERALIRERQREGIALAKQRGAYRGRKKSLSSERIAELRQRVEAGEQKTKLAREFGISRETLYQYLRTDQ";
+    std::string testval1 = morfiConvert::fullGene("EBT52160.1", "env_nr");
     EXPECT_EQ(testval1, expResult);
-    std::string testval2 = morfiConvert::fullGene("ARO40711.1", "all");
+    std::string testval2 = morfiConvert::fullGene("EBT52160.1", "all");
     EXPECT_EQ(testval2, expResult);
-    std::string testval3 = morfiConvert::fullGene("ARO40711.1", "env_np");
+    std::string testval3 = morfiConvert::fullGene("EBT52160.1", "env_np");
     EXPECT_EQ(testval3, "");
-    std::string testval4 = morfiConvert::fullGene("AAAA40711.1", "env_nr");
+    std::string testval4 = morfiConvert::fullGene("EBT521650.1", "env_nr");
     EXPECT_EQ(testval4, "");
+
+    std::string expResult2 = "AGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMSXYQTPLFVWSVLITAVLLLLSLPVLATGITMLLXDRNLNTTFFXPXXGGDP";
+    std::string testval5 = morfiConvert::fullGene("ARO40711.1", "env_nr");
+    EXPECT_EQ(testval5, expResult2);
 
     //Input file stream
     std::ifstream infile;
@@ -297,7 +301,13 @@ TEST(function_test, test_gene_complete) {
 
     if (infile.good()) {
         while (getline(infile, s)) {
-            remove((s.substr(0, s.find_first_of(" ")) + ".morfi").c_str());
+            //String without the final pointer value
+            std::string shaveLastPoint = s.substr(0, s.find_last_of(" "));
+
+            //Get the file path of the local database file
+            std::string dbPath = shaveLastPoint.substr(0, shaveLastPoint.find_last_of(" "));
+
+            remove(dbPath.c_str());
         }
         remove("points.morfi");
     }
@@ -757,8 +767,8 @@ TEST(function_test, test_file_2_obj_PIR) {
             }
         }
     }
-    EXPECT_EQ(desMatches, 65);
-    EXPECT_EQ(geneMatches, 65);
+    EXPECT_EQ(desMatches, 4);
+    EXPECT_EQ(geneMatches, 4);
     EXPECT_EQ(testPIR.size(), 4);
 
     std::cout << "Function Test - test_file_2_obj - PIR : Complete" << std::endl;
@@ -1894,17 +1904,8 @@ TEST(function_test, test_identify_invalid_path) {
 
 //Test identify invalid file
 TEST(function_test, test_identify_invalid_file) {
+    EXPECT_EQ(morfiConvert::identify(wrongfile), "Unknown");
 
-    try {
-        morfiConvert::identify(wrongfile);
-        EXPECT_EQ("Expect exception thrown", "Exception not thrown.");
-    } catch (std::exception &e) {
-        if (strcmp(e.what(), "Unsupported input file format") == 0) {
-            EXPECT_EQ("Exception thrown", "Exception thrown");
-        } else {
-            EXPECT_EQ("Expect exception thrown", "Wrong exception thrown.");
-        }
-    }
     std::cout << "Function Test - test_identify - Wrong file : Complete" << std::endl;
 }
 
