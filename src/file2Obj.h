@@ -34,7 +34,7 @@ namespace File2Obj {
     std::vector<GeneData> getInPHYLIPData(std::string path,int thrdCnt=10);
 
     //The Clustral data file (A Multiple Sequence Alignment) conversion function.
-    std::vector<GeneData> getInClustralData(std::string path);
+    std::vector<GeneData> getInClustalData(std::string path);
 
     //The MSF data file conversion function.
     std::vector<GeneData> getInMSFData(std::string path);

@@ -15,8 +15,8 @@
 #include "GeneData.h"
 #include "supplimentMorfi.h"
 
-// Exception (super) class for MorfiConvert File2Obj
-class MorfiSupException : public std::exception {
+// Exception (super) class for MorfiConvert Identify
+class MorfiIdentifyException : public std::exception {
 public:
     virtual const char *what() const throw() {
         return "Error occurred in supplementary function.";
@@ -24,7 +24,7 @@ public:
 };
 
 //Input file opening custom exception
-class FileInpException : public MorfiSupException {
+class FileInpException : public MorfiIdentifyException {
 public:
     virtual const char *what() const throw() {
         return "Error in opening input file. Please check if the given path is correct.";
@@ -32,7 +32,7 @@ public:
 };
 
 //Incorrect input file type exception
-class UnknownInpFileException : public MorfiSupException {
+class UnknownInpFileException : public MorfiIdentifyException {
 public:
     virtual const char *what() const throw() {
         return "Unsupported input file format";

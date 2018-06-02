@@ -12,7 +12,7 @@ cmake ..
 ```
 or 
 
-Using the MorfiConvert in a project where CMake is used via downloading this github repo, including it in you project (say the include folder) and then adding the following lines to the CMake file,
+Using the MorfiConvert in a project where CMake is used via downloading this GitHub repo, including it in your project (say the include folder) and then adding the following lines to the CMakeLists.txt file,
 ```sh
 #some code
 include_directories("${CMAKE_SOURCE_DIR}/include/MorfiConvert")
@@ -22,9 +22,10 @@ set(..
 add_executable(…
 target_link_libraries(Your_Project_Name morficonvert)
 ```
-*Here “Your_Project_Name” is the name of the project that is to use MorfiConvert.
 
-Afterwards include the morficonvert and GeneData (A class within MrofiConvert as an intermediary data state) header files.
+Here “Your_Project_Name” is the name of the project that is to use MorfiConvert. 
+
+Afterwards include the MorfiConvert and GeneData (A class within MorfiConvert as an intermediary data state) header files.
 ```sh
 #include "include/MorfiConvert/src/morficonvert.h"
 #include "include/MorfiConvert/src/GeneData.h"
@@ -39,7 +40,7 @@ Make a "cppan.yml" file with,
 dependencies:
     pvt.damitha_lenadora.morficonvert: 1.0.2
 ```
-Then do to the direcotry you project is in and build it by (you'll need cppan downloaded and in you path),
+Then go to the directory your project is in and build it by (you'll need cppan downloaded and in your path variables),,
 ```sh
 cppan
 mkdir build && cd build
@@ -48,7 +49,7 @@ cmake --build . --config Release
 ```
 or
 
-If your going with CMake, just,
+If your going with CMake to add it to your project, just,
 ```sh
 cppan
 ```
@@ -97,7 +98,7 @@ To use it like,
 ```sh
 std::vector<GeneData> getInData(std::string path, std::string origin, int thrdCnt = 10)
 ```
-Converts an input data file into an intermediary format.
+Converts an input data file into an intermediary format. 
 Here path specifies the file path to the input data file, origin specifies the input file format and thrdCnt gives the user the ability to specify the number of threads that the function should run on (default 10). Supported formats are,
 - NCBI-BLAST – .txt, .xml, .json
 - BLAST – .txt
@@ -109,12 +110,11 @@ Here path specifies the file path to the input data file, origin specifies the i
 - PIR – Any so long as the data in it is PIR
 - NBRF – Any so long as the data in it is NBRF
 - PHYLIP – Any so long as the data in it is PHYLIP
-- Clustral – .txt
+- Clustal – .txt
 - MSF – .txt
 - FASTA-Report – .txt
-- FIND
+- FIND - MorfiConvert tries to figure out which type of file input format from the above is given and then converts
 
-By giving the origin as FIND MorfiConvert tries to figure out which type of file input format is given in the file mentioned. 
 Ex: - 
 ```sh
 std::vector<GeneData> inpData = morfiConvert::getInData(“F:\\SomeFolder\\Test1.txt”, “NCBI-BLAST”); 
@@ -123,17 +123,22 @@ std::vector<GeneData> inpData = morfiConvert::getInData(“F:\\SomeFolder\\Test1
 ```sh
 std::vector<GeneData> getInImageData(std::vector<std::string> genes, std::string path)
 ```
+
 Converts an input image file in the MSA format into GeneData objects.
-Here path specifies the file path to the input data file and gene specifies the descriptions of the said gene sequences in the image file. Supported formats are,
+Here, genes specify the descriptions of the said gene sequences in the image file. Supported formats are,
+
 - .bmp
 
 The image you have is not .bmp? Try converting it. You can find loads of sites that do image to .bmp conversions.
 
 Ex: - 
 ```sh
-std::vector<GeneData> inpData = morfiConvert::getInData(geneDescrips, “F:\\SomeFolder\\img.bmp”); 
+std::vector<GeneData> inpData = morfiConvert::getImageData(geneDescrips, “F:\\SomeFolder\\img.bmp”); 
 ```
-
+`But keep in mind that the data in the image needs to be trained first. This is done via tainImageData() passing the gene sequence as a vector set of strings and the image file path as parameters.`
+```sh
+std::vector<GeneData> trainImageData(std::vector<std::string> genes, std::string path)
+```
 ### GeneData to the required output format (as string objects)
 ```sh
 std::vector<std::string> giveOutData(std::vector<GeneData> res, std::string outType, int thrdCnt = 10);
@@ -195,7 +200,7 @@ std::string inpType = morfiConvert:: identify (“F:\\SomeFolder\\Test1.txt”);
 ```sh
 void configLocal(std::string path, std::string outPath = "");
 ```
-Create a local data file from NCBI FASTA db files. Primarily done to give MorfiConvert the capability to complete partial gene sequences. An output location can alos be provided via outPath. If not given the local files would be created in the same folder as the c++ executable. 
+Creates a local data file from NCBI FASTA database files. Primarily done to give MorfiConvert the capability to complete partial gene sequences. An output location can also be provided via outPath. If not given the local files would be created in the same folder as the C++ executable. 
 Ex:-
 ```sh
 morfiConvert:: configLocal (“F:\\SomeFolder\\Test1.txt”);
@@ -205,8 +210,8 @@ morfiConvert:: configLocal (“F:\\SomeFolder\\Test1.txt”);
 ```sh
 std::string fullGene(std::string ncbiID, std::string dbName = "all");
 ```
-Search the local data files and find the matching gene via the NCBI identifier. The “db” parameter refers to the name of the database file specified to find a particular record.
->Ex:- If the FASTA database file was named “env_nr” used in configLocal function, and the records of this said file needed to be searched the db parameter should be “env_nr”. 
+Search the local data files and find the matching gene via the NCBI identifier. The db parameter refers to the name of the database file specified to find a particular record.
+>Ex:- If the FASTA database file was named “env_nr” used in configLocal function, and the records of this said file needed to be searched the db parameter should be “env_nr”.  
 
 A point to note would be that if the db parameter was specified as “all” then all available local data files would be searched and that if no matching record was found an empty string would be returned.
 Ex:-
@@ -218,7 +223,7 @@ morfiConvert::completeGene(“ACR012.1”,”all”);
 ```sh
 std::vector<GeneData> completeGenes(std::vector<GeneData> geneSet);
 ```
-The multi object format of completeGene. Differences to note in this function to that of completeGene would be that if a matching record was not found or if the record in question was found but the gene was smaller, then the current gene would not be changed and that all local database files would be searched.
+The multi object format of completeGene. The differences to note in this function to that of completeGene would be that if a matching record was not found or if the record in question was found but the gene sequence was smaller, then the current gene would not be changed, as well as having all local database files searched.
 Ex:-
 ```sh
 morfiConvert::competeGenes(geneSet);
@@ -228,7 +233,7 @@ morfiConvert::competeGenes(geneSet);
 ```sh
 GeneData indexFragment(GeneData inpData, int strtIndex, int endIndex);
 ```
-Take only the relevant part of the gene sequence. Done by the location of the gene from the start and the length of the final sequence. 
+Take only the relevant part of the gene sequence. Done by the location of the gene from the start (starting form 0) and the ending location.
 Ex:-
 ```sh
 morfiConvert::indexFragment(gene, 0, 5);
@@ -238,7 +243,7 @@ morfiConvert::indexFragment(gene, 0, 5);
 ```sh
 GeneData stringFragment(GeneData inpData, std::string strtString, std::string endString);
 ```
-Take only the relevant part of the gene sequence. Done by the first matching string found in the current gene to the last matching ending gene portion of the final sequence. 
+Take only the relevant part of the gene sequence. Gives the section of the gene from the first matching string found in the current gene to the last matching ending string. 
 Ex:-
 ```sh
 morfiConvert::indexFragment(gene, “MSA”, “YPP”);

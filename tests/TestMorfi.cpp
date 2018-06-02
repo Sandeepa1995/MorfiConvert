@@ -77,7 +77,7 @@ std::string pathPHYLIP = "F:\\Achademic\\CS\\Semester 05\\Software Engineering P
 //PIR
 std::string pathPIR = "F:\\Achademic\\CS\\Semester 05\\Software Engineering Project\\Tests\\EBI Data\\PIR.txt";
 
-//Clustral
+//Clustal
 std::string pathClus = "F:\\Achademic\\CS\\Semester 05\\Software Engineering Project\\Tests\\EBI Data\\Clustral.txt";
 
 //FASRA Report
@@ -611,7 +611,7 @@ TEST(function_test, test_file_2_obj_find) {
 
 //Test type GCG data extraction
 TEST(function_test, test_file_2_obj_GCG) {
-    //Data for the GCG, EMBL, GenBank, MSF, PHYLIP, PIR and Clustral data formats taken from the EBI website
+    //Data for the GCG, EMBL, GenBank, MSF, PHYLIP, PIR and Clustal data formats taken from the EBI website
     std::vector<GeneData> compareSetEBI = getEBIDataTest();
 
     int geneMatches = 0;
@@ -639,7 +639,7 @@ TEST(function_test, test_file_2_obj_GCG) {
 
 //Test type EMBL data extraction
 TEST(function_test, test_file_2_obj_EBML) {
-    //Data for the GCG, EMBL, GenBank, MSF, PHYLIP, PIR and Clustral data formats taken from the EBI website
+    //Data for the GCG, EMBL, GenBank, MSF, PHYLIP, PIR and Clustal data formats taken from the EBI website
     std::vector<GeneData> compareSetEBI = getEBIDataTest();
 
     int geneMatches = 0;
@@ -666,7 +666,7 @@ TEST(function_test, test_file_2_obj_EBML) {
 
 //Test type GenBank data extraction
 TEST(function_test, test_file_2_obj_Genbank) {
-    //Data for the GCG, EMBL, GenBank, MSF, PHYLIP, PIR and Clustral data formats taken from the EBI website
+    //Data for the GCG, EMBL, GenBank, MSF, PHYLIP, PIR and Clustal data formats taken from the EBI website
     std::vector<GeneData> compareSetEBI = getEBIDataTest();
 
     int geneMatches = 0;
@@ -693,7 +693,7 @@ TEST(function_test, test_file_2_obj_Genbank) {
 
 //Test type MSF data extraction
 TEST(function_test, test_file_2_obj_MSF) {
-    //Data for the GCG, EMBL, GenBank, MSF, PHYLIP, PIR and Clustral data formats taken from the EBI website
+    //Data for the GCG, EMBL, GenBank, MSF, PHYLIP, PIR and Clustal data formats taken from the EBI website
     std::vector<GeneData> compareSetEBI = getEBIDataTest();
 
     int geneMatches = 0;
@@ -721,7 +721,7 @@ TEST(function_test, test_file_2_obj_MSF) {
 
 //Test type PHYLIP data extraction
 TEST(function_test, test_file_2_obj_PHYLIP) {
-    //Data for the GCG, EMBL, GenBank, MSF, PHYLIP, PIR and Clustral data formats taken from the EBI website
+    //Data for the GCG, EMBL, GenBank, MSF, PHYLIP, PIR and Clustal data formats taken from the EBI website
     std::vector<GeneData> compareSetEBI = getEBIDataTest();
 
     int geneMatches = 0;
@@ -749,7 +749,7 @@ TEST(function_test, test_file_2_obj_PHYLIP) {
 
 //Test type PIR data extraction
 TEST(function_test, test_file_2_obj_PIR) {
-    //Data for the GCG, EMBL, GenBank, MSF, PHYLIP, PIR and Clustral data formats taken from the EBI website
+    //Data for the GCG, EMBL, GenBank, MSF, PHYLIP, PIR and Clustal data formats taken from the EBI website
     std::vector<GeneData> compareSetEBI = getEBIDataTest();
 
     int geneMatches = 0;
@@ -774,15 +774,15 @@ TEST(function_test, test_file_2_obj_PIR) {
     std::cout << "Function Test - test_file_2_obj - PIR : Complete" << std::endl;
 }
 
-//Test type Clustral data extraction
-TEST(function_test, test_file_2_obj_Clustral) {
-    //Data for the GCG, EMBL, GenBank, MSF, PHYLIP, PIR and Clustral data formats taken from the EBI website
+//Test type Clustal data extraction
+TEST(function_test, test_file_2_obj_Clustal) {
+    //Data for the GCG, EMBL, GenBank, MSF, PHYLIP, PIR and Clustal data formats taken from the EBI website
     std::vector<GeneData> compareSetEBI = getEBIDataTest();
 
     int geneMatches = 0;
     int desMatches = 0;
 
-    std::vector<GeneData> testClus = morfiConvert::getInData(pathClus, "Clustral");
+    std::vector<GeneData> testClus = morfiConvert::getInData(pathClus, "Clustal");
     for (int i = 0; i < 4; i++) {
         for (int j = 0; j < testClus.size(); j++) {
             if (strcmp(SupMorfi::getIdentifier(testClus.at(j).getDetails()).c_str(),
@@ -798,7 +798,7 @@ TEST(function_test, test_file_2_obj_Clustral) {
     EXPECT_EQ(geneMatches, 4);
     EXPECT_EQ(testClus.size(), 4);
 
-    std::cout << "Function Test - test_file_2_obj - Clustral : Complete" << std::endl;
+    std::cout << "Function Test - test_file_2_obj - Clustal : Complete" << std::endl;
 }
 
 //Test type FASTA-Report data extraction
@@ -1297,10 +1297,10 @@ TEST(function_test, test_file_2_obj_wrong_path_PHYLIP) {
     std::cout << "Function Test - test_file_2_obj - Wrong path PHYLIP : Complete" << std::endl;
 }
 
-//Wrong path given Clustral
-TEST(function_test, test_file_2_obj_wrong_path_Clustral) {
+//Wrong path given Clustal
+TEST(function_test, test_file_2_obj_wrong_path_Clustal) {
     try {
-        std::vector<GeneData> test17 = morfiConvert::getInData(wrongpath, "Clustral");
+        std::vector<GeneData> test17 = morfiConvert::getInData(wrongpath, "Clustal");
         EXPECT_EQ("Expect exception thrown", "Exception not thrown.");
     } catch (std::exception &e) {
         if (strcmp(e.what(), "Error in opening input file. Please check if the given path is correct.") == 0) {
@@ -1309,7 +1309,7 @@ TEST(function_test, test_file_2_obj_wrong_path_Clustral) {
             EXPECT_EQ("Expect exception thrown", "Wrong exception thrown.");
         }
     }
-    std::cout << "Function Test - test_file_2_obj - Wrong path Clustral : Complete" << std::endl;
+    std::cout << "Function Test - test_file_2_obj - Wrong path Clustal : Complete" << std::endl;
 }
 
 //Wrong path given MSF
@@ -1879,7 +1879,7 @@ TEST(function_test, test_identify_valid) {
     EXPECT_EQ(morfiConvert::identify(pathGenBank), "GenBank");
     EXPECT_EQ(morfiConvert::identify(pathPIR), "PIR");
     EXPECT_EQ(morfiConvert::identify(pathPHYLIP), "PHYLIP");
-    EXPECT_EQ(morfiConvert::identify(pathClus), "Clustral");
+    EXPECT_EQ(morfiConvert::identify(pathClus), "Clustal");
     EXPECT_EQ(morfiConvert::identify(pathFR), "FASTA-Report");
     EXPECT_EQ(morfiConvert::identify(pathCusMSA), "Unknown");
 
@@ -1994,7 +1994,7 @@ TEST(performance_test, test_local_store) {
     t2 = clock();
     float diff((float) t2 - (float) t1);
     std::cout << "1.9GB conversion time :" << diff / 1000 << "s" << std::endl;
-    EXPECT_TRUE(diff < 1000);
+    EXPECT_TRUE((diff/1000) < 1000);
 
     //Input file stream
     std::ifstream infile;
@@ -2018,8 +2018,7 @@ TEST(performance_test, test_local_store) {
             //Get the file path of the local database file
             std::string dbPath = shaveLastPoint.substr(0, shaveLastPoint.find_last_of(" "));
 
-            std::ifstream datafile;
-            datafile.open(dbPath);
+            std::ifstream datafile(dbPath, std::ifstream::ate | std::ifstream::binary);
 
             std::cout << dbPath << " : " << datafile.tellg() << std::endl;
             newSizes += datafile.tellg();
@@ -2027,10 +2026,10 @@ TEST(performance_test, test_local_store) {
             datafile.close();
             remove(dbPath.c_str());
         }
-        remove("points.morfi");
     } else {
         EXPECT_EQ(true, false);
     }
+    remove("points.morfi");
     if (newSizes < origSize) {
         EXPECT_EQ("New sizes are smaller", "New sizes are smaller");
     } else {
@@ -2051,9 +2050,10 @@ TEST(performance_test, test_local_retrieve) {
     clock_t t1, t2;
     t1 = clock();
     std::string test1 = morfiConvert::fullGene("ARO40711.1", "all");
+    std::cout<<test1<<std::endl;
     t2 = clock();
     float diff((float) t2 - (float) t1);
-    std::cout << "1.9GB data retrieival time :" << diff / 1000 << "s" << std::endl;
+    std::cout << "1.9GB data retrieival time :" << diff << "s" << std::endl;
 
     //Input file stream
     std::ifstream infile;
@@ -2173,10 +2173,10 @@ TEST(performance_test, test_file_2_obj) {
         EXPECT_TRUE(diff11 < 1000);
 
         t1 = clock();
-        std::vector<GeneData> res12 = morfiConvert::getInData(pathClus, "Clustral", threadNum);
+        std::vector<GeneData> res12 = morfiConvert::getInData(pathClus, "Clustal", threadNum);
         t2 = clock();
         float diff12((float) t2 - (float) t1);
-        std::cout << "Time to convert a Clustral file :" << diff12 / 1000 << "s" << std::endl;
+        std::cout << "Time to convert a Clustal file :" << diff12 / 1000 << "s" << std::endl;
         EXPECT_TRUE(diff12 < 1000);
 
         t1 = clock();
@@ -2195,6 +2195,7 @@ TEST(performance_test, test_file_2_obj) {
 
         int sumTime = diff1 + diff2 + diff3 + diff4 + diff5 + diff6 + diff7 + diff8 + diff9 + diff10 + diff11 + diff12 +
                       diff13;
+        std::cout << "Sum of times :" << sumTime << "s" << std::endl;
         if (minTime >= (sumTime)) {
             minTime = sumTime;
             minThreadNum = threadNum;
@@ -2266,6 +2267,7 @@ TEST(performance_test, test_obj_2_obj) {
         EXPECT_TRUE(diff7 < 1000);
 
         int sumTime = diff1 + diff2 + diff3 + diff4 + diff5 + diff6 + diff7;
+        std::cout << "Total :" << sumTime << "ms" << std::endl;
         if (minTime >= (sumTime)) {
             minTime = sumTime;
             minThreadNum = threadNum;
@@ -2363,7 +2365,7 @@ TEST(performance_test, test_identify) {
     std::string res10 = morfiConvert::identify(pathClus);
     t2 = clock();
     float diff10((float) t2 - (float) t1);
-    std::cout << "Time to Identify Clustral file :" << diff10 << "ms" << std::endl;
+    std::cout << "Time to Identify Clustal file :" << diff10 << "ms" << std::endl;
     EXPECT_TRUE(diff10 < 1000);
 
     t1 = clock();
@@ -2714,11 +2716,11 @@ TEST(load_test, test_file_2_obj) {
         t1 = clock();
 #pragma omp parallel for
         for (int i = 0; i < 100; i++) {
-            std::vector<GeneData> res12 = morfiConvert::getInData(pathClus, "Clustral", threadNum);
+            std::vector<GeneData> res12 = morfiConvert::getInData(pathClus, "Clustal", threadNum);
         }
         t2 = clock();
         float diff12((float) t2 - (float) t1);
-        std::cout << "Time to convert 100 Clustral files :" << diff12 / 1000 << "s" << std::endl;
+        std::cout << "Time to convert 100 Clustal files :" << diff12 / 1000 << "s" << std::endl;
         EXPECT_TRUE(diff12 < 60000);
 
         t1 = clock();
@@ -2963,7 +2965,7 @@ TEST(load_test, test_identify) {
     }
     t2 = clock();
     float diff10((float) t2 - (float) t1);
-    std::cout << "Time to Identify 100 Clustral files :" << diff10 << "ms" << std::endl;
+    std::cout << "Time to Identify 100 Clustal files :" << diff10 << "ms" << std::endl;
     EXPECT_TRUE(diff10 < 60000);
 
     t1 = clock();

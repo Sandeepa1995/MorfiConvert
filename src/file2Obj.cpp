@@ -1057,8 +1057,8 @@ std::vector<GeneData> File2Obj::getInPHYLIPData(std::string path, int thrdCnt) {
     }
 }
 
-//The Clustral data file (A Multiple Sequence Alignment) conversion function.
-std::vector<GeneData> File2Obj::getInClustralData(std::string path) {
+//The Clustal data file (A Multiple Sequence Alignment) conversion function.
+std::vector<GeneData> File2Obj::getInClustalData(std::string path) {
     //Vector set to hold converted input data set
     std::vector<GeneData> inputData;
 

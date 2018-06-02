@@ -54,8 +54,8 @@ std::vector<GeneData> morfiConvert::getInData(std::string path, std::string orig
         return File2Obj::getInPIRData(path, thrdCnt);
     } else if (origin == "PHYLIP") {
         return File2Obj::getInPHYLIPData(path, thrdCnt);
-    } else if (origin == "Clustral") {
-        return File2Obj::getInClustralData(path);
+    } else if (origin == "Clustal") {
+        return File2Obj::getInClustalData(path);
     } else if (origin == "MSF") {
         return File2Obj::getInMSFData(path);
     } else if (origin == "FASTA-Report") {
